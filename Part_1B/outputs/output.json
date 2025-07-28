@@ -1,0 +1,681 @@
+{
+  "metadata": {
+    "input_documents": [
+      {
+        "filename": "A Framework for Ethical AI at the United Nations .pdf",
+        "title": "Unite Paper - Ethical AI at the UN",
+        "page_count": 23
+      },
+      {
+        "filename": "A survey of AI ethics in business literature.pdf",
+        "title": "A survey of AI ethics in business literature: Maps and trends between 2000 and 2021",
+        "page_count": 23
+      },
+      {
+        "filename": "AI Ethics and  Governance in  Practice.pdf",
+        "title": "AI Ethics and Governance in Practice",
+        "page_count": 67
+      },
+      {
+        "filename": "GOVERNING  AI FOR  HUMANITY.pdf",
+        "title": "GOVERNING AI FOR HUMANITY",
+        "page_count": 101
+      }
+    ],
+    "persona": {
+      "role": "AI Policy Analyst",
+      "specialization": "Technology Governance",
+      "focus_areas": [
+        "AI ethics",
+        "algorithmic accountability",
+        "AI regulations"
+      ]
+    },
+    "job_to_be_done": {
+      "description": "Compare and summarize governance frameworks, ethical principles, and policy guidelines for AI as proposed by international organizations and researchers.",
+      "keywords": [
+        "compare",
+        "ethical",
+        "frameworks",
+        "governance",
+        "guidelines",
+        "international",
+        "organizations",
+        "policy",
+        "principles",
+        "proposed",
+        "researchers",
+        "summarize"
+      ]
+    },
+    "timestamp": "2025-07-22T15:01:21.408713+05:30"
+  },
+  "extracted_sections": [
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 1,
+      "section_title": "A Framework for Ethical AI at the United Nations",
+      "importance_rank": 1
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 1,
+      "section_title": "DEFINING ETHICAL AI",
+      "importance_rank": 2
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 1,
+      "section_title": "IMPLEMENTING ETHICAL AI",
+      "importance_rank": 3
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 11,
+      "section_title": "2. Defining Ethical AI",
+      "importance_rank": 4
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 14,
+      "section_title": "E. Frameworks for Ethical AI",
+      "importance_rank": 5
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 16,
+      "section_title": "F. Principles",
+      "importance_rank": 6
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 19,
+      "section_title": "G. Governance of Ethical AI policies",
+      "importance_rank": 7
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 20,
+      "section_title": "3. Implementing Ethical AI",
+      "importance_rank": 8
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 20,
+      "section_title": "H. Operationalizing AI principles",
+      "importance_rank": 9
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "page": 20,
+      "section_title": "I. Proposed Framework",
+      "importance_rank": 10
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 1,
+      "section_title": "Governance in",
+      "importance_rank": 11
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 4,
+      "section_title": "Governance in Practice",
+      "importance_rank": 12
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 9,
+      "section_title": "AI Ethics and Governance in",
+      "importance_rank": 13
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 38,
+      "section_title": "The SSAFE-D Principles",
+      "importance_rank": 14
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 40,
+      "section_title": "The Process-Based Governance (PBG) Framework",
+      "importance_rank": 15
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "page": 64,
+      "section_title": "Principles",
+      "importance_rank": 16
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 7,
+      "section_title": "governance",
+      "importance_rank": 17
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 8,
+      "section_title": "2. Global AI governance",
+      "importance_rank": 18
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 9,
+      "section_title": "Figure (a): Representation in seven non-United Nations international AI",
+      "importance_rank": 19
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 9,
+      "section_title": "governance initiatives",
+      "importance_rank": 20
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 10,
+      "section_title": "International scientific panel on AI",
+      "importance_rank": 21
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 10,
+      "section_title": "An international scientific panel on AI",
+      "importance_rank": 22
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 11,
+      "section_title": "Policy dialogue on AI governance",
+      "importance_rank": 23
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 19,
+      "section_title": "Figure (c): Proposed role of the United Nations in the international AI",
+      "importance_rank": 24
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 19,
+      "section_title": "governance ecosystem",
+      "importance_rank": 25
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 28,
+      "section_title": "C. Governance as a key",
+      "importance_rank": 26
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 30,
+      "section_title": "Box 3: AI and national and international security",
+      "importance_rank": 27
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 32,
+      "section_title": "Box 5: Focusing on children in AI governance",
+      "importance_rank": 28
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 37,
+      "section_title": "2. The need for global governance",
+      "importance_rank": 29
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 38,
+      "section_title": "A. Guiding principles and",
+      "importance_rank": 30
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 38,
+      "section_title": "functions for international",
+      "importance_rank": 31
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 38,
+      "section_title": "governance of AI",
+      "importance_rank": 32
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 38,
+      "section_title": "Figure 5: AI governance functions proposed at the international level",
+      "importance_rank": 33
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 38,
+      "section_title": "AI governance functions",
+      "importance_rank": 34
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 39,
+      "section_title": "Box 7: Feedback on the guiding principles",
+      "importance_rank": 35
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 40,
+      "section_title": "Figure 6: Interregional and regional AI governance initiatives, key milestones,",
+      "importance_rank": 36
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 40,
+      "section_title": "B. Emerging international",
+      "importance_rank": 37
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 40,
+      "section_title": "AI governance landscape",
+      "importance_rank": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 41,
+      "section_title": "Figure 7: Sources of governance initiatives that focused on AI specifically",
+      "importance_rank": 39
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 42,
+      "section_title": "3. Global AI governance gaps",
+      "importance_rank": 40
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 43,
+      "section_title": "Figure 8: Representation in seven non-United Nations international AI",
+      "importance_rank": 41
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 45,
+      "section_title": "Figure 9: Selected documents related to AI governance from the United",
+      "importance_rank": 42
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 45,
+      "section_title": "Nations and related organizations",
+      "importance_rank": 43
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 47,
+      "section_title": "governance gaps",
+      "importance_rank": 44
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 48,
+      "section_title": "International scientific panel",
+      "importance_rank": 45
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 52,
+      "section_title": "Policy dialogue on AI",
+      "importance_rank": 46
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 53,
+      "section_title": "AI governance initiatives with intergovernmental tracks",
+      "importance_rank": 47
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 63,
+      "section_title": "Building a core public international AI",
+      "importance_rank": 48
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 67,
+      "section_title": "Fund governance",
+      "importance_rank": 49
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 71,
+      "section_title": "Figure 17: Proposed role of the United Nations in the international AI",
+      "importance_rank": 50
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 73,
+      "section_title": "An international AI agency?",
+      "importance_rank": 51
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "page": 75,
+      "section_title": "Box 16: Lessons learned from past global governance institutions",
+      "importance_rank": 52
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "A Framework for Ethical AI at the United Nations",
+      "refined_text": "Prepared by: Lambert Hogenhout Organization: UN Office for Information and Communications Technology Contact: hogenhout@un.org Date: 15-3-2021 Contents EXECUTIVE SUMMARY 2 INTRODUCTION 3 1. PROBLEMS WITH AI 5 2. DEFINING ETHICAL AI 11 3. IMPLEMENTING ETHICAL AI 20 CONCLUSION 23 Unite Papers\u2014 \u201cInforming and Capturing UN Technological Innovation\u201d An occasional paper series to share ideas, insights and in-depth studies on technology and the United Nations. The series is sponsored by the Office of Information and Communications Technology (OICT) but does not necessarily represent the official views of OICT or of the United Nations.",
+      "page": 1
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "DEFINING ETHICAL AI",
+      "refined_text": "11 3.",
+      "page": 1
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "IMPLEMENTING ETHICAL AI",
+      "refined_text": "20",
+      "page": 1
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "2. Defining Ethical AI",
+      "refined_text": "C. What is Ethics? We want our AI to be \u201cgood\u201d, or at least to avoid all the negative characteristics we have identified. We need a comprehensive set of ethical principles that will guide the development and use of AI. Unfortunately, there is no single truth for ethics. Ethics are the standards of right and wrong, acceptable and not acceptable, in a certain community. It includes an individual\u2019s rights, obligations, virtues, the benefits to society, and a sense of fairness. Ethics will clearly differ for various cultures or groups. What is acceptable in one country may not be in another. They also change over time. What was commonly accepted 100 years ago is not OK today. Even for the basic theory of ethics, different approaches exist. Classical philosopher Aristotle proposed Virtue Ethics (\u201cWhat kind of person should I be?\u201d). Modern philosopher Immanuel Kant wrote about Deontological Ethics (\u201cHow should I behave?\u201d). Another approach is Consequentialist Ethics (\u201cWhat should be my goal?\u201d). Those are only a few of the many other theories of ethics. Some basic ethical principles go to the core of the questions we are trying to solve about AI. For instance, Aristotle writes in the Nicomachean Ethics 11 about moral responsibility and argues that \u201cthe action must have its origin in the agent\u201d. These ideas become concretely relevant once we grant AI systems autonomy (that is, agency ). Who is responsible for an accident caused by an autonomous car? The owner? The dealer that sold the car? The manufacturer of the AI? The supplier of the data that trained the AI? We can see our ethical values as being composed of different layers, going from global to group to individual: Core ethical values based on inalienable human rights (human dignity, autonomy); constitutional values (rule of law, equity, privacy); group specific values (beliefs or cultural norms); and individual ethical values (personal convictions). 11 Aristotle. 350 BCE. \u201cNicomachean Ethics\u201d. Available as free e-book online. See also https://en.wikipedia.org/wiki/Nicomachean_Ethics \u201d",
+      "page": 11
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "E. Frameworks for Ethical AI",
+      "refined_text": "Many nations, groups or organizations have published well thought-out sets of AI principles that large teams of experts have worked on and each offers its own perspective. The sets of principles are entitled with a \u201cbrand-name\u201d that gives an indication of the particular perspective the group has taken. A bewildering number of these go around and they are not always well defined and sometimes confused: Trustworthy AI; Responsible AI; Explainable AI; Interpretable; Transparent; Human- centered; Safe AI or Mindful AI; and more. The brand names do not matter nearly as much as the principles that are contained in the frameworks; and we see the same principles appear in many of them. The box on the right makes an attempt at clarifying some of the terms used to describe the frameworks, although for most, no single definition exists. Below, we will dig deeper into a few significant ones. The European Commission\u2019s High-Level Expert Group on Artificial Intelligence (AI HLEG) published one of the best know frameworks in its report \u201cGuidelines for Trustworthy AI\u201d 18 . The term Trustworthy here conveys a general sense of trust that humans may have in the AI because of AI that can be trusted by humans to be \u201dlawful, ethical and robust\u201d, where lawful means 18 EC High-Level Expert Group On Artificial Intelligence. 2019. \u201cGuidelines for Trustworthy AI\u201d. https://ec.europa.eu/digital-single-market/en/high-level-expert-group-artificial-intelligence What\u2019s in a name? A number of terms are used to describe frameworks of ethical principles for AI. These terms reflect the general mindset, the spirit of the principles. Ethical AI = ensures compliance with ethical norms. Trustworthy AI = can be trusted by humans as acting in a\u201d lawful, ethical and robust\u201d way (AI HLEG). Explainable (or explicable) AI , also written as XAI = allows its functioning to be explained to stakeholders in non-technical terms. Synonyms or closely related terms are: Interpretable, Comprehensible and Understandable AI. Interpretable AI = on the same spectrum as Explainability but adds the ability for stakeholders not only to see but also study the decision-making process of the AI. Meaningful AI = used in the Villani report (France) to describe a system that is explainable and environmentally friendly, does not increase exclusion or inequality. Transparent AI = provides some level of accessibility to the data or algorithm. Responsible AI = takes into account societal values, moral and ethical considerations. Human-centered AI = ensures that human values are central to the way in which AI systems are developed, deployed, used and monitored. Beneficial AI = does not only avoid risks but contributes positively to society. The notion of beneficial AI came from one of the Asilomar Principles.",
+      "page": 14
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "F. Principles",
+      "refined_text": "A large number of frameworks for ethical AI have been developed, each with a number of principles. We can find similar ideas in individual principles through all frameworks. Even though the names and the definitions may differ, the basic idea is the same. The list of principles below is a collected from several frameworks and guidelines including those of the AI HLEG, IEEE, OECD, Villani report 20 , ACM, the Japanese Society for AI, the Beijing AI principles 21 , the Nation Science and Technology Council (US) 22 , The Montreal Declaration and the Asilomar principles, organized in six categories: 20 Villani et al. 2018. \u201cFor a meaningful artificial intelligence\u201d. https:// www.aiforhumanity.fr/pdfs/MissionVillani_Report_ENG-VF.pdf . 21 Beijing Academy of Artificial Intelligence. (2019). Beijing AI principles. https:// www.baai.ac.cn/blog/beijing-ai-principles . 22 Holdren / National Science and Technology Council. 2017. \u201cPreparing for the Future of Artificial Intelligence\u201d https://doi.org/10.1007/s00146-016-0685-0 .",
+      "page": 16
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "G. Governance of Ethical AI policies",
+      "refined_text": "So far most ethical principles are used within a limited context \u2014 within a particular business or government agency. General regulation or legislation regarding AI is difficult as traditional mechanisms can be insufficient for a number of reasons 24 : \u2022 Machines are not \u201cpeople\u201d (unless we define them as legal person at some point, just like businesses are 25 ), and existing legal systems operate by assigning and allocating legal rights and responsibilities to \u201cpersons\u201d. \u2022 The global nature of the internet and the opaque nature of many AIs means that risky AI development may easily escape (or intentionally evade) detection by regulators. \u2022 AI is often made up of components created by different people at different places (in different jurisdictions) and times, without conscious coordination (e.g., on public code- sharing platforms such as Github). The difficulty in monitoring or enforcing compliance with policies on Ethical AI is a concern that should be kept in mind when developing principles. 24 Ideas taken from a presentation by Matt Sherer at Asilomar Conference. See: https://theengineeringofconsciousexperience.com/public-risk-management-for-ai-the-path-forward-matt- scherer/ 25 In 2017, the European Parliament suggested this, but it has not happened yet.",
+      "page": 19
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "3. Implementing Ethical AI",
+      "refined_text": "H. Operationalizing AI principles Even if it may seem that our use of AI in the UN is still rather limited, and risks can perhaps easily be contained (probably not the case), it is clear in any case that our use of AI will become widespread and more complex in the coming years and that the ethical implications are not so easily foreseen. Developing a set of ethical principles for AI is the first step. But they will not be realized if there is no support for those developing, purchasing, integrating, and using AI systems. Stakeholders need to be involved in the process of defining and operationalizing the Principles \u2013 the team that does this needs to be multi-disciplinary and represent stakeholder communities. It should also bring in different cultural perspectives (for which the UN, with its multi-national body of staff, is well positioned). The members of the team will need awareness and understanding of the issues, development methodologies, standardized assessment methodologies, and technical tools. The Principles could be provided as a voluntary guideline, a code of conduct or a policy. Sometimes new policies may not be needed if a reinterpretation of existing policies in the context of AI will suffice. Aligning the development of AI systems with Principles can benefit from both technical and non- technical methods. On the technical side there are architectures, methodology, explanation methods, and technical tests. Non-technical methods include education, standardization, stakeholder involvement in design, and diversity in teams. I. Proposed Framework For the UN to move toward ethical use of AI in the systems it develops and uses, requires a number of steps. Principles : While there are many existing policies and frameworks to take inspiration from, the UN will need to articulate its own set of principles. These principles should be aligned with the approach we take to data, including, importantly, the CEB-approved Principles on Personal Data Protection and Privacy 26 and Data Governance policies and guidelines. Assessment methods : Standard methods should be defined to assess an AI system\u2019s alignment with our principles. Several methods exist: The AI HLEG report includes a practical assessment 26 See: https://unsceb.org/principles-personal-data-protection-and-privacy-listing",
+      "page": 20
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "H. Operationalizing AI principles",
+      "refined_text": "Even if it may seem that our use of AI in the UN is still rather limited, and risks can perhaps easily be contained (probably not the case), it is clear in any case that our use of AI will become widespread and more complex in the coming years and that the ethical implications are not so easily foreseen. Developing a set of ethical principles for AI is the first step. But they will not be realized if there is no support for those developing, purchasing, integrating, and using AI systems. Stakeholders need to be involved in the process of defining and operationalizing the Principles \u2013 the team that does this needs to be multi-disciplinary and represent stakeholder communities. It should also bring in different cultural perspectives (for which the UN, with its multi-national body of staff, is well positioned). The members of the team will need awareness and understanding of the issues, development methodologies, standardized assessment methodologies, and technical tools. The Principles could be provided as a voluntary guideline, a code of conduct or a policy. Sometimes new policies may not be needed if a reinterpretation of existing policies in the context of AI will suffice. Aligning the development of AI systems with Principles can benefit from both technical and non- technical methods. On the technical side there are architectures, methodology, explanation methods, and technical tests. Non-technical methods include education, standardization, stakeholder involvement in design, and diversity in teams. I. Proposed Framework For the UN to move toward ethical use of AI in the systems it develops and uses, requires a number of steps. Principles : While there are many existing policies and frameworks to take inspiration from, the UN will need to articulate its own set of principles. These principles should be aligned with the approach we take to data, including, importantly, the CEB-approved Principles on Personal Data Protection and Privacy 26 and Data Governance policies and guidelines. Assessment methods : Standard methods should be defined to assess an AI system\u2019s alignment with our principles. Several methods exist: The AI HLEG report includes a practical assessment 26 See: https://unsceb.org/principles-personal-data-protection-and-privacy-listing",
+      "page": 20
+    },
+    {
+      "document": "A Framework for Ethical AI at the United Nations .pdf",
+      "section_title": "I. Proposed Framework",
+      "refined_text": "For the UN to move toward ethical use of AI in the systems it develops and uses, requires a number of steps. Principles : While there are many existing policies and frameworks to take inspiration from, the UN will need to articulate its own set of principles. These principles should be aligned with the approach we take to data, including, importantly, the CEB-approved Principles on Personal Data Protection and Privacy 26 and Data Governance policies and guidelines. Assessment methods : Standard methods should be defined to assess an AI system\u2019s alignment with our principles. Several methods exist: The AI HLEG report includes a practical assessment 26 See: https://unsceb.org/principles-personal-data-protection-and-privacy-listing",
+      "page": 20
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "Governance in",
+      "refined_text": "An Introduction 1 AI Ethics and Governance in Practice An Introduction For Facilitators This workbook is annotated to support facilitators in delivering the accompanying activities. AI Ethics and Governance in Practice Programme",
+      "page": 1
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "Governance in Practice",
+      "refined_text": "An Introduction 4 About the AI Ethics and Governance in Practice Workbook Series Who We Are The Public Policy Programme at The Alan Turing Institute was set up in May 2018 with the aim of developing research, tools, and techniques that help governments innovate with data-intensive technologies and improve the quality of people\u2019s lives. We work alongside policymakers to explore how data science and artificial intelligence can inform public policy and improve the provision of public services. We believe that governments can reap the benefits of these technologies only if they make considerations of ethics and safety a first priority. Origins of the Workbook Series In 2019, The Alan Turing Institute\u2019s Public Policy Programme, in collaboration with the UK\u2019s Office for Artificial Intelligence and the Government Digital Service, published the UK Government\u2019s official Public Sector Guidance on AI Ethics and Safety UK Government\u2019s official Public Sector Guidance on AI Ethics and Safety . This document provides end-to-end guidance on how to apply principles of AI ethics and safety to the design, development, and implementation of algorithmic systems in the public sector. It provides a governance framework designed to assist AI project teams in ensuring that the AI technologies they build, procure, or use are ethical, safe, and responsible. In 2021, the UK\u2019s National AI Strategy recommended as a \u2018key action\u2019 the update and expansion of this original guidance. From 2021 to 2023, with the support of funding from the Office for AI and the Engineering and Physical Sciences Research Council as well as with the assistance of several public sector bodies, we undertook this updating and expansion. The result is the AI Ethics and Governance in Practice Programme, a bespoke series of eight workbooks and a forthcoming digital platform designed to equip the public sector with tools, training, and support for adopting what we call a Process-Based Governance (PBG) Framework to carry out projects in line with state-of-the-art practices in responsible and trustworthy AI innovation.",
+      "page": 4
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "AI Ethics and Governance in",
+      "refined_text": "Practice: An Introduction Key Concepts 10 10 Part One: Introduction to Artificial Part One: Introduction to Artificial Intelligence (AI) Intelligence (AI) 12 12 Examples of the Use of AI Systems in the Examples of the Use of AI Systems in the Public Sector Public Sector 14 14 Technical Components of AI and Machine Technical Components of AI and Machine Learning (ML) Learning (ML) 15 15 Data Data 19 19 Models Models 24 24 A Closer Look at Machine Learning A Closer Look at Machine Learning 24 24 Supervised Learning Supervised Learning 25 25 Unsupervised Learning Unsupervised Learning 26 26 Reinforcement Learning Reinforcement Learning 27 27 Stages of the AI/ML Project Lifecycle Stages of the AI/ML Project Lifecycle 31 31 Part two: The Sociotechnical Aspect of the Part two: The Sociotechnical Aspect of the AI/ML Project Lifecycle AI/ML Project Lifecycle 34 34 The CARE and Act Framework The CARE and Act Framework 35 35 AI Ethics and Governance in Practice AI Ethics and Governance in Practice 36 36 The SUM Values The SUM Values 38 38 The SSAFE-D Principles The SSAFE-D Principles 40 40 The Process-Based Governance (PBG) The Process-Based Governance (PBG) Framework Framework",
+      "page": 9
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "The SSAFE-D Principles",
+      "refined_text": "and achieved for AI projects to make sure that projects are ethically justifiable. Putting principles in motion and ensuring they are achieved in practice requires the implementation of governance actions . Across these workbooks, each of the SSAFE-D principles is accompanied by corresponding governance actions. We present a list of these governance actions on the following page. Level 2 The SSAFE-D Principles Achieving this goal requires assuring a minimum threshold of discriminatory non-harm and bias mitigation. Achieving this goal requires assuring AI projects being developed with continuous sensitivity to real-world impacts. Achieving this goal requires an AI system to be technically accurate, reliable, secure, and robust. Achieving this goal requires assuring the project\u2019s end- to-end answerability and auditability. Achieving this goal requires the ability to explain and justify AI project processes and AI-supported outcomes. Achieving this goal requires data quality, integrity, protection, and privacy to be assured.",
+      "page": 38
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "The Process-Based Governance (PBG) Framework",
+      "refined_text": "",
+      "page": 40
+    },
+    {
+      "document": "AI Ethics and  Governance in  Practice.pdf",
+      "section_title": "Principles",
+      "refined_text": "Minds and machines, 28, 689-707. https://doi.org/10.1007/ https://doi.org/10.1007/ s11023-018-9482-5 s11023-018-9482-5 Jasanoff, S. (2015). Future imperfect: Science, technology, and the imaginations of modernity. Dreamscapes of modernity: Sociotechnical imaginaries and the fabrication of power, 1-33. Kellogg, K. C., Valentine, M. A., & Christin, A. (2020). Algorithms at work: The new contested terrain of control, Academy of Management Annals, 14 (1). https://doi.org/10.5465/annals.2018.0174 https://doi.org/10.5465/annals.2018.0174 Makarius, E. E., Mukherjee, D., Fox, J. D., & Fox, A. K. (2020). Rising with the machines: A sociotechnical framework for bringing artificial intelligence into the organization. Journal of Business Research, 120, 262-273. https://doi. https://doi. org/10.1016/j.jbusres.2020.07.045 org/10.1016/j.jbusres.2020.07.045 Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 54 (6), 1-35. https://arxiv.org/ https://arxiv.org/ pdf/1908.09635 pdf/1908.09635 Mohamed, S., Png, M. T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33, 659-684. https://doi.org/10.1007/ https://doi.org/10.1007/ s13347-020-00405-8 s13347-020-00405-8 Morozov, E. (2013). To save everything, click here: The folly of technological solutionism. Public Affairs. O\u2019Neil, C. (2016). Weapons of math destruction; How big data increases inequality and threatens democracy. Crown. Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. In Proceedings of the conference on fairness, accountability, and transparency (pp. 59-68). https://doi.org/10.1145/3287560.3287598 https://doi.org/10.1145/3287560.3287598 Taddeo, M., & Floridi, L. (2018). How AI can be a force for good. Science, 361 (6404), 751-752. https://doi.org/10.1126/science.aat5991 https://doi.org/10.1126/science.aat5991 Williams, R., & Edge, D. (1996). The social shaping of technology. Research policy, 25 (6), 865-899. https://doi.org/10.1016/0048-7333(96)00885-2 https://doi.org/10.1016/0048-7333(96)00885-2 Responsible Research and Innovation: CARE and Act Principles Anderson, E. (1999). What is the point of equality? Ethics, 109, 287\u2013337. https://doi. https://doi. org/10.1086/233897 org/10.1086/233897 Andrejevic, M., & Selwyn, N. (2020). Facial recognition technology in schools: Critical questions and concerns. Learning, Media and Technology, 45 (2), 115-128. https://doi.org/10.1080/17439884 https://doi.org/10.1080/17439884 .2020.1686014 .2020.1686014",
+      "page": 64
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "governance",
+      "refined_text": "envelope. iii AI also brings other risks. AI bias and surveillance are joined by newer concerns, such as the confabulations (or \u201challucinations\u201d) of large language models, AI-enhanced creation and dissemination of disinformation, risks to peace and security, and the energy consumption of AI systems at a time of climate crisis. iv Fast, opaque and autonomous AI systems challenge traditional regulatory systems, while ever-more-powerful systems could upend the world of work. Autonomous weapons and public security uses of AI raise serious legal, security and humanitarian questions. v There is, today, a global governance deficit with respect to AI. Despite much discussion of ethics and principles, the patchwork of norms and institutions is still nascent and full of gaps. Accountability is often notable for its absence, including for deploying non-explainable AI systems that impact others. Compliance often rests on voluntarism; practice belies rhetoric. 1 See https://un.org/ai-advisory-body . vi As noted in our interim report, 1 AI governance is crucial \u2013 not merely to address the challenges and risks, but also to ensure that we harness AI\u2019s potential in ways that leave no one behind. 1. The need for global governance vii The imperative of global governance, in particular, is irrefutable. AI\u2019s raw materials, from critical minerals to training data, are globally sourced. General-purpose AI, deployed across borders, spawns manifold applications globally. The accelerating development of AI concentrates power and wealth on a global scale, with geopolitical and geoeconomic implications. viii Moreover, no one currently understands all of AI\u2019s inner workings enough to fully control its outputs or predict its evolution. Nor are decision makers held accountable for developing, deploying or using systems they do not understand. Meanwhile, negative spillovers and downstream impacts resulting from such decisions are also likely to be global. ix The development, deployment and use of such a technology cannot be left to the whims of markets alone. National governments and regional organizations will be crucial, but the very nature of the technology itself \u2013 transboundary in structure and application \u2013 necessitates a global approach. Governance can also be a key enabler for AI innovation for the SDGs globally. x AI, therefore, presents challenges and opportunities that require a holistic, global approach cutting transversally across political, economic, social, ethical, human rights, technical, environmental",
+      "page": 7
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "2. Global AI governance",
+      "refined_text": "gaps xii There is no shortage of documents and dialogues focused on AI governance. Hundreds of guides, frameworks and principles have been adopted by governments, companies and consortiums, and regional and international organizations. xiii Yet, none of them can be truly global in reach and comprehensive in coverage. This leads to problems of representation, coordination and implementation. xiv In terms of representation, whole parts of the world have been left out of international AI governance conversations. Figure (a) shows seven prominent, non-United Nations AI initiatives. 3 Seven countries are parties to all the sampled AI governance efforts, whereas 118 countries are parties to none (primarily in the global South). xv Equity demands that more voices play meaningful roles in decisions about how to govern technology that affects us. The concentration of decision- making in the AI technology sector cannot be justified; we must also recognize that historically many communities have been entirely excluded from AI governance conversations that impact them. xvi AI governance regimes must also span the globe to be effective \u2014 effective in averting \u201cAI arms races\u201d or a \u201crace to the bottom\u201d on safety and rights, in detecting and responding to incidents emanating from decisions along AI\u2019s life cycle which span multiple jurisdictions, in spurring learning, in encouraging interoperability, and in sharing AI\u2019s benefits. The technology is borderless and, as it spreads, the illusion that any one State or group of States could (or should) control it will diminish. xvii Coordination gaps between initiatives and institutions risk splitting the world into disconnected and incompatible AI governance regimes. Coordination is also lacking within the United Nations system. Although many United Nations entities touch on AI governance, their specific mandates mean that none does so in a comprehensive manner. xviii However, representation and coordination are not enough. Accountability requires implementation so that commitments to global AI governance translate to tangible outcomes in practice, including on capacity development and support to small and medium enterprises, so that opportunities are shared. Much of this will take place at the national and regional levels, but more is also needed globally to address risks and harness benefits. 2 Guiding principle 1: AI should be governed inclusively, by and for the benefit of all; guiding principle 2: AI must be governed in the public interest; guiding principle 3: AI governance should be built in step with data governance and the promotion of data commons; guiding principle 4: AI governance must be universal, networked and rooted in adaptive multi-stakeholder collaboration; guiding principle 5: AI governance should be anchored in the Charter of the United Nations, international human rights law and other agreed international commitments, such as the SDGs. 3 Excluding the United Nations Educational, Scientific and Cultural Organization (UNESCO) Recommendation on the Ethics of Artificial Intelligence (2021) and the two General Assembly resolutions on AI in 2024: \u201cSeizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development\u201d (78/265) and \u201cEnhancing international cooperation on capacity-building of artificial intelligence\u201d (78/311).",
+      "page": 8
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure (a): Representation in seven non-United Nations international AI",
+      "refined_text": "governance initiatives",
+      "page": 9
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "governance initiatives",
+      "refined_text": "",
+      "page": 9
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "International scientific panel on AI",
+      "refined_text": "xxiii Learning from precedents such as the Intergovernmental Panel on Climate Change (IPCC) and the United Nations Scientific Committee on the Effects of Atomic Radiation, an international, multidisciplinary scientific panel on AI could collate and catalyse leading-edge research to inform scientists, policymakers, Member States and other stakeholders seeking scientific perspectives on AI technology or its applications from an impartial, credible source. xxiv A scientific panel under the auspices of the United Nations could source expertise on AI-related opportunities. This might include facilitating \u201cdeep dives\u201d into applied domains of the SDGs, such as health care, energy, education, finance, agriculture, climate, trade and employment. xxv Risk assessments could also draw on the work of other AI research initiatives, with the United Nations offering a uniquely trusted \u201csafe harbour\u201d for researchers to exchange ideas on the \u201cstate of the art\u201d. By pooling knowledge across silos in countries or companies that may not otherwise engage or be included, a United Nations-hosted panel can help to rectify misperceptions and bolster trust globally. xxvi Such a panel should operate independently, with support from a cross-United Nations system team drawn from the below-proposed AI office and relevant United Nations agencies, such as the International Telecommunication Union (ITU) and the United Nations Educational, Scientific and Cultural Organization (UNESCO). It should partner with research efforts led by other international institutions, such as the Organisation for Economic Co-operation and Development (OECD) and the Global Partnership on Artificial Intelligence. Recommendation 1 An international scientific panel on AI We recommend the creation of an independent international scientific panel on AI, made up of diverse multidisciplinary experts in the field serving in their personal capacity on a voluntary basis. Supported by the proposed United Nations AI office and other relevant United Nations agencies, partnering with other relevant international organizations, its mandate would include: a) Issuing an annual report surveying AI-related capabilities, opportunities, risks and uncertainties, identifying areas of scientific consensus on technology trends and areas where additional research is needed; b) Producing quarterly thematic research digests on areas in which AI could help to achieve the SDGs, focusing on areas of public interest which may be under-served; and c) Issuing ad hoc reports on emerging issues, in particular the emergence of new risks or significant gaps in the governance landscape.",
+      "page": 10
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "An international scientific panel on AI",
+      "refined_text": "We recommend the creation of an independent international scientific panel on AI, made up of diverse multidisciplinary experts in the field serving in their personal capacity on a voluntary basis. Supported by the proposed United Nations AI office and other relevant United Nations agencies, partnering with other relevant international organizations, its mandate would include: a) Issuing an annual report surveying AI-related capabilities, opportunities, risks and uncertainties, identifying areas of scientific consensus on technology trends and areas where additional research is needed; b) Producing quarterly thematic research digests on areas in which AI could help to achieve the SDGs, focusing on areas of public interest which may be under-served; and c) Issuing ad hoc reports on emerging issues, in particular the emergence of new risks or significant gaps in the governance landscape.",
+      "page": 10
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Policy dialogue on AI governance",
+      "refined_text": "xxviii An inclusive policy forum is needed so that all Member States, drawing on the expertise of stakeholders, can share best practices that are based on human rights and foster development, that foster interoperable governance approaches and that account for transboundary challenges that warrant further policy consideration. This does not mean global governance of all aspects of AI, but it can set the framework for international cooperation and better align industry and national efforts with global norms and principles. xxix Institutionalizing such multi-stakeholder exchange under the auspices of the United Nations can provide a reliably inclusive home for discussing emerging governance practices and appropriate policy responses. By edging beyond comfort zones, dialogue between non-likeminded countries, and between States and stakeholders, can catalyse learning and lay foundations for greater cooperation, such as on safety standards and rights, and for times of global crisis. A United Nations setting is essential to anchoring this effort in the widest possible set of shared norms. xxx Combined with capacity development (see recommendations 4 and 5), such inclusive dialogue on governance approaches can help States and companies to update their regulatory approaches and methodologies to respond to accelerating AI. Connections to the international scientific panel would enhance that dynamic, comparable to the relationship between IPCC and the United Nations Climate Change Conference. xxxi A policy dialogue could begin on the margins of existing meetings in New York (such as the General Assembly 4 ) and in Geneva. Twice-yearly meetings could focus more on opportunities across diverse sectors in one meeting, and more on risks in the other meeting. 5 Moving forward, a gathering like this would be an appropriate forum for sharing information about AI incidents, such as those that stretch or exceed the capacities of existing agencies. xxxii One portion of each dialogue session might focus on national approaches led by Member States, with a second portion sourcing expertise and inputs from key stakeholders \u2013 in particular, technology companies and civil society representatives. In addition to the formal dialogue sessions, multi-stakeholder engagement on AI policy could leverage other existing, more specialized mechanisms, such as the ITU AI for Good meeting, the annual Internet Governance Forum meeting, the UNESCO Global Forum on AI Ethics and the United Nations Conference on Trade and Development (UNCTAD) eWeek. 4 Analogous to the high-level political forum in the context of the SDGs that takes place under the auspices of the Economic and Social Council. 5 Relevant parts of the United Nations system could be engaged to highlight opportunities and risks, including ITU on AI standards; ITU, the United Nations Conference on Trade and Development (UNCTAD), the United Nations Development Programme (UNDP) and the Development Coordination Office on AI applications for the SDGs; UNESCO on ethics and governance capacity; the Office of the United Nations High Commissioner for Human Rights (OHCHR) on human rights accountability based on existing norms and mechanisms; the Office for Disarmament Affairs on regulating AI in military systems; UNDP on support to national capacity for development; the Internet Governance Forum for multi-stakeholder engagement and dialogue; the World Intellectual Property Organization (WIPO), the International Labour Organization (ILO), the World Health Organization (WHO), the Food and Agriculture Organization of the United Nations (FAO), the World Food Programme, the United Nations High Commissioner for Refugees (UNHCR), UNESCO, the United Nations Children\u2019s Fund, the World Meteorological Organization and others on sectoral applications and governance.",
+      "page": 11
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure (c): Proposed role of the United Nations in the international AI",
+      "refined_text": "governance ecosystem",
+      "page": 19
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "governance ecosystem",
+      "refined_text": "lx This small, agile capacity, in the form of an AI office within the United Nations Secretariat, would report to the Secretary-General, conferring the benefit of connections throughout the United Nations system, without being tied to one part of it. That is important because of the uncertain future of AI and the strong likelihood that it will permeate all aspects of human endeavour. lxi Such a body should be agile, champion inclusion and partner rapidly to accelerate coordination and implementation \u2013 drawing as a first priority on existing resources and functions within the United Nations system. The focus should be on civilian applications of AI. Common understanding Common ground Common benefits GPAI AI summits United Nations as enabling connector OECD Council of Europe Group of 20 SDOs \u2026 Regional organizations International scientific panel Standards exchange Global fund for AI Capacity development network United Nations engagement Governance dialogue National & regional Initiatives INDICATIVE, NOT EXHAUSTIVE Group of Seven AI data framework National & regional Initiatives Abbreviations : GPAI, Global Partnership on Artificial Intelligence; OECD, Organisation for Economic Co-operation and Development; SDOs, standards development organizations. Figure (c): Proposed role of the United Nations in the international AI governance ecosystem",
+      "page": 19
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "C. Governance as a key",
+      "refined_text": "enabler 16 Enablers need to be in place globally for the benefits of AI to be fully realized and accrued beyond a few people in a few countries. Ensuring that AI is deployed for the common good, and that its opportunities are distributed equitably, will require governmental and intergovernmental action to incentivize participation from the private sector, academia and civil society. Any governance framework should shape incentives globally to promote larger and more inclusive objectives and to help identify and address trade-offs. D. Risks and challenges 17 The development, deployment and use of AI bring risks, which can span many areas at the same time. We conceptualize AI-related risks in relation to vulnerabilities; this offers a vulnerability-based way to define policy agendas. 18 Challenges to traditional regulatory systems arise from AI\u2019s speed, opacity and autonomy. AI\u2019s accelerating technical development and deployment also raise the stakes for international governance, its general-purpose nature having implications across borders for multiple domains simultaneously. E. Risks of AI 19 Problems such as bias in AI systems and invidious AI-enabled surveillance are increasingly documented. Other risks are associated with the use of advanced AI, such as the confabulations of large language models, high resource consumption and risks to peace and security. AI-generated disinformation threatens democratic institutions. 20 Putting together a comprehensive list of AI risks for all time is a fool\u2019s errand, given the ubiquitous and rapidly evolving nature of AI and its uses; we believe that it is more useful to look at risks from the perspective of vulnerable communities and the commons (see paras. 26\u201328 below). 21 A snapshot of current expert risk perceptions is illustrated by the results of a horizon-scanning exercise commissioned for our work (AI Risk Global Pulse Check; see annex E), a poll which sourced perceptions on AI-related trends and risks from 348 AI experts across disciplines and 68 countries in all regions. 7 Overall, 7 in 10 experts polled were concerned or very concerned that harms (existing or new) resulting from AI will become substantially more serious and/or widespread in the next 18 months (see annex E). 6 \u201cAn analysis of the location of grant recipients\u2019 headquarters from a database of US-majority foundations reveals that from 2018 to 2023, only 10 percent of grants allocated toward AI initiatives that address one or more of the SDGs went to organizations based in low- or middle-income countries \u2026 Analysis of private capital shows that 36 percent of 9,000 companies addressing SDGs are headquartered in the United States, but these companies received 54 percent of total funding. We also found that while 20 percent of 9,000 companies addressing SDGs are headquartered in lower- or middle-income countries, they received a higher proportion (25 percent) of total funding. One reason for this is that Chinese companies receive a high proportion of investment \u2026 The remaining developing countries in the sample received only 3 percent of funding while representing 7 percent of the sample\u201d (Medha Bankhwal and others, \u201cAI for social good: improving lives and protecting the planet\u201d, McKinsey & Company, May 2024). 7 The invitee list was constructed from the Office of the Secretary-General\u2019s Envoy on Technology (OSET) and the Advisory Body\u2019s networks, including participants in deep dives. Additional experts were regularly invited during the fielding period to improve representation. The final n=348 represents a strong, balanced global sample of respondents with relevant expertise to provide an informed opinion on AI risks (see annex E for the methodology).",
+      "page": 28
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Box 3: AI and national and international security",
+      "refined_text": "25 Moreover, autonomous weapons in armed conflict, crime or terrorism, and public-security use of AI in particular, raise serious legal, security and humanitarian questions (see box 3). 10 26 Risk management requires going beyond listing or prioritizing risks, however. Framing risks based on vulnerabilities can shift the focus of policy agendas from the \u201cwhat\u201d of each risk (e.g. \u201crisk to safety\u201d) to \u201cwho\u201d is at risk and \u201cwhere\u201d, as well as who should be accountable in each case. 10 This list is intended to be illustrative only, touching on only a few of the risks facing individuals and societies.",
+      "page": 30
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Box 5: Focusing on children in AI governance",
+      "refined_text": "",
+      "page": 32
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "2. The need for global governance",
+      "refined_text": "41 There is, today, a global governance deficit with respect to AI. Despite much discussion of ethics and principles, the patchwork of norms, institutions and initiatives is still nascent and full of gaps. Accountability and remedies for harm are often notable primarily for their absence. Compliance rests on voluntarism. There is a fundamental disconnect between high-level rhetoric, the systems being developed, deployed and used, and the conditions required for safety and inclusiveness. As we noted in our interim report, AI governance is crucial, not merely to address the challenges and risks, but also to ensure that we harness their potential in ways that leave no one behind. 11 42 The imperative of global governance, in particular, is irrefutable. AI\u2019s raw materials, from critical minerals to training data, are globally sourced. General-purpose AI, deployed across borders, spawns manifold applications globally. The accelerating development of AI concentrates power and wealth on a global scale, with geopolitical and geoeconomic implications. Moreover, no one currently understands all of AI\u2019s inner workings enough to fully control its outputs or predict its evolution. Nor are decision makers held accountable for developing, deploying or using systems that they do not understand. Meanwhile, negative spillovers and downstream impacts resulting from such decisions are also likely to be global. 43 Despite AI\u2019s global reach, national and regional institutional structures and regulations end at physical borders. This reduces the ability of any single country to govern the downstream applications of AI that result in transboundary harms, or to address issues along complex cross- border supply chains of compute infrastructure, training data flows and energy sources that lie behind AI\u2019s development and use. Leading AI companies often have more direct influence over downstream applications (via upstream risk mitigation) than most countries acting alone. 44 The development, deployment and use of such a technology cannot be left to the whims of markets alone. National governments and regional organizations will be crucial. However, in addition to considerations of equity, access and prevention of and remedies for harm, the very nature of the technology itself \u2013 transboundary in structure and application \u2013 necessitates a global multisector approach. Without a globally inclusive framework that engages stakeholders, and given the competitive dynamics at play, both Governments and companies might be tempted to cut corners or to prioritize self-interest. 45 AI, therefore, presents global challenges and opportunities that require a holistic and global approach that cuts transversally across political, economic, social, ethical, human rights, technical, environmental and other domains. Such an approach can turn a patchwork of evolving initiatives into a coherent, interoperable whole, grounded in international law and adaptable across contexts and time. 46 The need for global governance of AI arises at a time of geopolitical and geoeconomic competition for influence and markets. Yet addressing AI\u2019s risks while enabling opportunities to be harnessed equitably requires concerted global action. A widening digital divide could limit the benefits of AI to a handful of States and individuals, with risks and harms impacting many, especially vulnerable, groups. 11 See https://un.org/ai-advisory-body .",
+      "page": 37
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "A. Guiding principles and",
+      "refined_text": "functions for international governance of AI 47 In our interim report, we outlined five principles that should guide the formation of new international AI governance institutions: \u2022 Guiding principle 1 : AI should be governed inclusively, by and for the benefit of all \u2022 Guiding principle 2 : AI must be governed in the public interest \u2022 Guiding principle 3 : AI governance should be built in step with data governance and the promotion of data commons \u2022 Guiding principle 4 : AI governance must be universal, networked and rooted in adaptive multi-stakeholder collaboration \u2022 Guiding principle 5 : AI governance should be anchored in the Charter of the United Nations, international human rights law and other agreed international commitments such as the SDGs 48 Box 7 summarizes the feedback on these principles, which emphasized the importance of human rights and the need for greater clarity on effective implementation of the guiding principles, including regarding data governance. It challenged us to address the problem of ensuring that support for inclusivity was backed by action, and that marginalized groups would be represented. 49 In our interim report, we also proposed several institutional functions that might be pursued at the international level (see fig. 5). The feedback largely confirmed the need for these functions at the global level, while calling for additional complementary functions related to data and AI governance to translate guiding principle 3 (AI governance should be built in step with data governance and the promotion of data commons) into practice. Figure 5: AI governance functions proposed at the international level 1 2 3 4 5 6 7 Norm elaboration, compliance and accountability Reporting and peer review International collaboration on data, compute and talent to solve the SDGs Facilitation of development and use liability regime, cross-border model training and testing Mediating standards, safety and risk management frameworks Interoperability (horizontal) and alignment (vertical) with norms Horizon-scanning, building scientific consensus Institutional \u201chardness\u201d AI governance functions",
+      "page": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "functions for international",
+      "refined_text": "governance of AI 47 In our interim report, we outlined five principles that should guide the formation of new international AI governance institutions: \u2022 Guiding principle 1 : AI should be governed inclusively, by and for the benefit of all \u2022 Guiding principle 2 : AI must be governed in the public interest \u2022 Guiding principle 3 : AI governance should be built in step with data governance and the promotion of data commons \u2022 Guiding principle 4 : AI governance must be universal, networked and rooted in adaptive multi-stakeholder collaboration \u2022 Guiding principle 5 : AI governance should be anchored in the Charter of the United Nations, international human rights law and other agreed international commitments such as the SDGs 48 Box 7 summarizes the feedback on these principles, which emphasized the importance of human rights and the need for greater clarity on effective implementation of the guiding principles, including regarding data governance. It challenged us to address the problem of ensuring that support for inclusivity was backed by action, and that marginalized groups would be represented. 49 In our interim report, we also proposed several institutional functions that might be pursued at the international level (see fig. 5). The feedback largely confirmed the need for these functions at the global level, while calling for additional complementary functions related to data and AI governance to translate guiding principle 3 (AI governance should be built in step with data governance and the promotion of data commons) into practice. Figure 5: AI governance functions proposed at the international level 1 2 3 4 5 6 7 Norm elaboration, compliance and accountability Reporting and peer review International collaboration on data, compute and talent to solve the SDGs Facilitation of development and use liability regime, cross-border model training and testing Mediating standards, safety and risk management frameworks Interoperability (horizontal) and alignment (vertical) with norms Horizon-scanning, building scientific consensus Institutional \u201chardness\u201d AI governance functions",
+      "page": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "governance of AI",
+      "refined_text": "47 In our interim report, we outlined five principles that should guide the formation of new international AI governance institutions: \u2022 Guiding principle 1 : AI should be governed inclusively, by and for the benefit of all \u2022 Guiding principle 2 : AI must be governed in the public interest \u2022 Guiding principle 3 : AI governance should be built in step with data governance and the promotion of data commons \u2022 Guiding principle 4 : AI governance must be universal, networked and rooted in adaptive multi-stakeholder collaboration \u2022 Guiding principle 5 : AI governance should be anchored in the Charter of the United Nations, international human rights law and other agreed international commitments such as the SDGs 48 Box 7 summarizes the feedback on these principles, which emphasized the importance of human rights and the need for greater clarity on effective implementation of the guiding principles, including regarding data governance. It challenged us to address the problem of ensuring that support for inclusivity was backed by action, and that marginalized groups would be represented. 49 In our interim report, we also proposed several institutional functions that might be pursued at the international level (see fig. 5). The feedback largely confirmed the need for these functions at the global level, while calling for additional complementary functions related to data and AI governance to translate guiding principle 3 (AI governance should be built in step with data governance and the promotion of data commons) into practice. Figure 5: AI governance functions proposed at the international level 1 2 3 4 5 6 7 Norm elaboration, compliance and accountability Reporting and peer review International collaboration on data, compute and talent to solve the SDGs Facilitation of development and use liability regime, cross-border model training and testing Mediating standards, safety and risk management frameworks Interoperability (horizontal) and alignment (vertical) with norms Horizon-scanning, building scientific consensus Institutional \u201chardness\u201d AI governance functions",
+      "page": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 5: AI governance functions proposed at the international level",
+      "refined_text": "1 2 3 4 5 6 7 Norm elaboration, compliance and accountability Reporting and peer review International collaboration on data, compute and talent to solve the SDGs Facilitation of development and use liability regime, cross-border model training and testing Mediating standards, safety and risk management frameworks Interoperability (horizontal) and alignment (vertical) with norms Horizon-scanning, building scientific consensus Institutional \u201chardness\u201d AI governance functions",
+      "page": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "AI governance functions",
+      "refined_text": "1 2 3 4 5 6 7 Norm elaboration, compliance and accountability Reporting and peer review International collaboration on data, compute and talent to solve the SDGs Facilitation of development and use liability regime, cross-border model training and testing Mediating standards, safety and risk management frameworks Interoperability (horizontal) and alignment (vertical) with norms Horizon-scanning, building scientific consensus Institutional \u201chardness\u201d AI governance functions",
+      "page": 38
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Box 7: Feedback on the guiding principles",
+      "refined_text": "",
+      "page": 39
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 6: Interregional and regional AI governance initiatives, key milestones,",
+      "refined_text": "",
+      "page": 40
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "B. Emerging international",
+      "refined_text": "AI governance landscape 53 There is, to be sure, no shortage of documents and dialogues presently focused on AI governance. Hundreds of guides, frameworks and principles have been adopted by governments, companies and consortiums, and by regional and international organizations. Dozens of forums convene diverse actors, from established intergovernmental processes and expert bodies, to ad hoc multi- stakeholder initiatives. These are accompanied by existing and emerging regulation at the national and regional levels. 54 International initiatives by Governments are proliferating (see fig. 6). These emerging initiatives increasingly follow a transversal approach to AI governance at the international level, consisting of principles, declarations, statements and other issuances that address AI holistically, rather than in specific domains. They have accelerated sharply",
+      "page": 40
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "AI governance landscape",
+      "refined_text": "53 There is, to be sure, no shortage of documents and dialogues presently focused on AI governance. Hundreds of guides, frameworks and principles have been adopted by governments, companies and consortiums, and by regional and international organizations. Dozens of forums convene diverse actors, from established intergovernmental processes and expert bodies, to ad hoc multi- stakeholder initiatives. These are accompanied by existing and emerging regulation at the national and regional levels. 54 International initiatives by Governments are proliferating (see fig. 6). These emerging initiatives increasingly follow a transversal approach to AI governance at the international level, consisting of principles, declarations, statements and other issuances that address AI holistically, rather than in specific domains. They have accelerated sharply",
+      "page": 40
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 7: Sources of governance initiatives that focused on AI specifically",
+      "refined_text": "Domestic Universal Large-n multilateral Plurilateral Bi-/minilateral Regional international within regions Interregional international between regions United Nations Inclusiveness Adoption by governments AI summits, CoE, G7, G20, GPAI, OECD\u2026 ASEAN, AU, EU, OAS... United States-United Kingdom / New Zealand-United Kingdom / United States- Singapore / United States-EU\u2026 AI summits, FMF, IEC, IEEE, ISO, ITU, WSC\u2026 Industry standards and commitments CEN- CENELEC, ETSI\u2026 AI safety institutes, BSI, SAC, [ANSI, NIST] \u2026170+ more Adoption by companies NOT EXHAUSTIVE Abbreviations : ANSI, American National Standards Institute; ASEAN, Association of Southeast Asian Nations; AU, African Union; BSI, British Standards Institution; CEN, European Committee for Standardisation; CENELEC, European Committee for Electrotechnical Standardization; CoE, Council of Europe; ETSI, European Telecommunications Standards Institute; EU, European Union; FMF, Frontier Model Forum; G20, Group of 20; G7, Group of Seven; GPAI, Global Partnership on Artificial Intelligence; IEC, International Electrotechnical Commission; IEEE, Institute of Electrical and Electronics Engineers; ISO, International Organization for Standardization; ITU, International Telecommunication Union; NIST, National Institute of Standards and Technology; OAS, Organization of American States; OECD, Organisation for Economic Co-operation and Development; SAC, Standardization Administration of China; WSC, World Standards Cooperation. Parties / adopters Governments (initiatives, agreements) Companies (industry standards) since 2023, spurred by releases of multiple general- purpose AI large language models following the release of ChatGPT in November 2022. 55 In parallel, industry standards on AI have been developed and published for adoption internationally. Other multi-stakeholder initiatives have also sought to bridge the divide between the public and private sectors, including in discussion arenas such as the Internet Governance Forum. 56 A survey of some of the sources of AI governance initiatives and industry standards, mapped by geographical range and inclusiveness, is provided in figure 7 (in listing this recent work, we acknowledge many years of efforts by academics, civil society and professional bodies). 57 Examples of relevant regional and interregional plurilateral initiatives include those led by the African Union, various hosts of AI summits, the Association of Southeast Asian Nations, the Council of Europe, the European Union, the Group of Seven (G7), the Group of 20 (G20), the Global Partnership on Artificial Intelligence, the Organization of American States and the Organisation for Economic Co- operation and Development (OECD), among others. 58 Our analysis of current governance arrangements is likely to be outdated within months. Nevertheless, it can help to illustrate how current and emerging international AI governance initiatives relate to our guiding principles for the formation of new global governance institutions for AI, including principle 1 (AI should be governed inclusively, by and for the benefit of all).",
+      "page": 41
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "3. Global AI governance gaps",
+      "refined_text": "59 The multiple national, regional, multi-stakeholder and other initiatives mentioned above have yielded meaningful gains and informed our work; many of their representatives have contributed to our deliberations in writing or participated in our consultations. 60 Nonetheless, beyond a couple of initiatives emerging from the United Nations, 12 none of the initiatives can be truly global in reach. These representation gaps in AI governance at the international level are a problem, because the technology is global and will be comprehensive in its impact. 61 Separate coordination gaps between initiatives and institutions risk splitting the world into disconnected and incompatible AI governance regimes. 62 Furthermore, implementation and accountability gaps reduce the ability of States, the private sector, civil society, academia and the technical community to translate commitments, however representative, into tangible outcomes. A. Representation gaps 63 Our analysis of the various non-United Nations AI governance initiatives that span regions shows that most initiatives are not fully representative in their intergovernmental dimensions. 64 Many exclude entire parts of the world. As figure 8 shows, looking at seven non-United Nations plurilateral, interregional AI initiatives with overlapping membership, seven countries are parties to all of them, whereas fully 118 countries are parties to none (primarily in the global South, with uneven representation even of leading AI nations; see fig. 8). 65 Selectivity is understandable at an early stage of governance when there is a degree of experimentation, competition around norms and diverse levels of comfort with new technologies. However, as international AI governance matures, global representation becomes more important in terms of equity and effectiveness. 66 Besides the non-inclusiveness of existing efforts, representation gaps also exist in national and regional initiatives focused on reaching common scientific understandings of AI. These representation gaps may manifest in decision- making processes regarding how assessments are scoped, resourced and conducted. 67 Equity demands that more voices play meaningful roles in decisions about how to govern technology that affects all of us, as well as recognizing that many communities have historically been excluded from those conversations. The relative paucity of topics from the agendas of major initiatives that are priorities of certain regions signals an imbalance stemming from underrepresentation. 13 68 AI governance regimes must span the globe to be effective \u2013 effective in building trust, averting \u201cAI arms races\u201d or \u201craces to the bottom\u201d on safety and rights, responding effectively to challenges arising 12 The United Nations Educational, Scientific and Cultural Organization (UNESCO) Recommendation on the Ethics of Artificial Intelligence (2021), and two General Assembly resolutions on AI. 13 For example, governance of AI training data sets, access to computational power, AI capacity development, AI-related risks regarding discrimination of marginalized groups and use of AI in armed conflict (see annex E for results of the AI Risk Global Pulse Check, which shows different perceptions of risks by respondents from the Western European and Others Group versus others). Many States and marginalized communities have also been excluded from the benefits of AI or may disproportionately suffer its harms. Equity demands a diverse and inclusive approach that accounts for the views of all regions and that spreads opportunities evenly while mitigating risks.",
+      "page": 42
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 8: Representation in seven non-United Nations international AI",
+      "refined_text": "governance initiatives * Per endorsement of relevant intergovernmental issuances. Countries are not considered involved in a plurilateral initiative solely because of membership in the European Union or the African Union. Abbreviations : AG, African Group; APG, Asia and the Pacific Group; EEG, Eastern European Group; G20, Group of 20; G7, Group of Seven; GPAI, Global Partnership on Artificial Intelligence; LAC, Latin America and the Caribbean; OECD, Organisation for Economic Co-operation and Development; WEOG, Western European and Others Group. 7 2 5 7 10 23 21 118 7 / 7 6 / 7 5 / 7 4 / 7 3 / 7 2 / 7 1 / 7 0 / 7 Canada, France, Germany, Italy, Japan, United Kingdom and United States are parties * to all sampled initiatives / instruments 118 countries are parties* to none of the sampled AI governance initiatives / instruments Sample : OECD AI Principles (2019), G20 AI principles (2019), Council of Europe AI Convention drafting group (2022\u20132024), GPAI Ministerial Declaration (2022), G7 Ministers\u2019 Statement (2023), Bletchley Declaration (2023) and Seoul Ministerial Declaration (2024). WEOG EEG LAC APG AG 0 of 29 countries 1 of 23 countries 25 of 33 countries 44 of 54 countries 48 of 54 countries INTERREGIONAL ONLY, EXCLUDES REGIONAL Countries not involved, by regional grouping: from the transboundary character of AI, spurring learning, encouraging interoperability and sharing AI benefits. 14 There are, moreover, benefits to including diverse views, including un-likeminded views, to anticipate threats and calibrate responses that are creative and adaptable. 69 By limiting the range of countries included in key agenda-shaping, relationship-building and information-sharing processes, selective plurilateralism can limit the achievement of its own goals. These include compatibility of emerging AI governance approaches, global AI safety and shared understandings regarding the science of AI at the global level (see recommendations 1, 2 and 3 on what makes a global approach particularly effective here). 70 The two General Assembly resolutions on AI adopted in 2024 so far 15 signal acknowledgement among leading AI nations that representation gaps need to be addressed regarding international AI governance, and the United Nations could be the forum to bring the world together in this regard. 71 The Global Digital Compact in September 2024, and the World Summit on the Information Society Forum in 2025 offer two additional policy windows where a globally representative set of AI governance processes could be institutionalized to address representation gaps. 16 14 If and when red lines are established \u2013 analogous perhaps to the ban on human cloning \u2013 they will only be enforceable if there is global buy-in to the norm, as well as monitoring compliance. This remains the case despite the fact that, paradoxically, in the current paradigm, while the costs of a given AI system go down, the costs of advanced AI systems (arguably the most important to control) go up. 15 Resolutions 78/265 (seizing the opportunities of safe, secure and trustworthy artificial intelligence systems for sustainable development) and 78/311 (enhancing international cooperation on capacity-building of artificial intelligence). 16 Various plurilateral initiatives, including the OECD AI Principles, the G7 Hiroshima AI Process and the Council of Europe Framework Convention on Artificial Intelligence, are open to supporters or adherents beyond original initiating countries. Such openness might not, however, deliver representation and legitimacy at the speed and breadth required to keep pace with accelerating AI proliferation globally. Meanwhile, representation gaps in international AI governance processes persist, with decision-making concentrated in the hands of a few countries and companies.",
+      "page": 43
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 9: Selected documents related to AI governance from the United",
+      "refined_text": "Nations and related organizations the multifaceted implications of AI globally on their own. At the national and regional levels, such gaps are being addressed by new institutions, 19 such as AI safety institutes or AI offices for an appropriately transversal approach. C. Implementation gaps 78 Representation and coordination are not enough, however. Action and follow-up processes are required to ensure that commitments to good governance translate into tangible outcomes in practice. More is needed to ensure accountability. Peer pressure and peer-to-peer learning are two elements that can spur accountability. 79 Engaging with the private sector will be equally important for meaningful accountability and remedy for harm. The United Nations has experience of this in the United Nations Guiding Principles on Business and Human Rights. Equally, we would need robust engagement of civil society and scientific experts to keep governments and private companies honest about their commitments and claims. 80 Missing enablers for harnessing AI\u2019s benefits for the public good within and between countries constitute a key implementation gap. Many countries have put in place national strategies to boost AI-related infrastructure and talent, and a few initiatives for international assistance are emerging. 20 However, these are under-networked and under-resourced. 81 At the global level, connecting national and regional capacity development initiatives, and pooling resources to support those countries left out from such efforts, can help to ensure that no country is left behind in the sharing of opportunities associated with AI. Another key implementation gap is the absence of a dedicated fund for AI capacity-building despite the existence of some funding mechanisms for digital capacity (box 8). 19 Including those set up by Canada, Japan, Singapore, the Republic of Korea, the United Kingdom, the United States and the European Union. 20 National-level efforts could continue to employ diagnosis tools, such as the UNESCO AI Readiness Assessment Methodology to help to identify gaps at the country level, with the international network helping to address them.",
+      "page": 45
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Nations and related organizations",
+      "refined_text": "the multifaceted implications of AI globally on their own. At the national and regional levels, such gaps are being addressed by new institutions, 19 such as AI safety institutes or AI offices for an appropriately transversal approach. C. Implementation gaps 78 Representation and coordination are not enough, however. Action and follow-up processes are required to ensure that commitments to good governance translate into tangible outcomes in practice. More is needed to ensure accountability. Peer pressure and peer-to-peer learning are two elements that can spur accountability. 79 Engaging with the private sector will be equally important for meaningful accountability and remedy for harm. The United Nations has experience of this in the United Nations Guiding Principles on Business and Human Rights. Equally, we would need robust engagement of civil society and scientific experts to keep governments and private companies honest about their commitments and claims. 80 Missing enablers for harnessing AI\u2019s benefits for the public good within and between countries constitute a key implementation gap. Many countries have put in place national strategies to boost AI-related infrastructure and talent, and a few initiatives for international assistance are emerging. 20 However, these are under-networked and under-resourced. 81 At the global level, connecting national and regional capacity development initiatives, and pooling resources to support those countries left out from such efforts, can help to ensure that no country is left behind in the sharing of opportunities associated with AI. Another key implementation gap is the absence of a dedicated fund for AI capacity-building despite the existence of some funding mechanisms for digital capacity (box 8). 19 Including those set up by Canada, Japan, Singapore, the Republic of Korea, the United Kingdom, the United States and the European Union. 20 National-level efforts could continue to employ diagnosis tools, such as the UNESCO AI Readiness Assessment Methodology to help to identify gaps at the country level, with the international network helping to address them.",
+      "page": 45
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "governance gaps",
+      "refined_text": "Purpose Enhance representation Enable coordination Strengthen implementation Common understanding International scientific panel on AI 3 3 Common ground Policy dialogue on AI governance AI standards exchange 3 3 3 Common benefits Capacity development network Global fund for AI Global AI data framework 3 3 3 Coherent effort AI office within the Secretariat Advising the Secretary-General on matters related to AI, working to promote a coherent voice within the United Nations system, engaging States and stakeholders, partnering and interfacing with other processes and institutions, and supporting other proposals as required. (   ) 21 It should also be inclusive and cohesive, and enhance global peace and security.",
+      "page": 47
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "International scientific panel",
+      "refined_text": "on AI Recommendation 1: An international scientific panel on AI We recommend the creation of an independent international scientific panel on AI, made up of diverse multidisciplinary experts in the field serving in their personal capacity on a voluntary basis. Supported by the proposed United Nations AI office and other relevant United Nations agencies, partnering with other relevant international organizations, its mandate would include: a. Issuing an annual report surveying AI- related capabilities, opportunities, risks and uncertainties, identifying areas of scientific consensus on technology trends and areas where additional research is needed; b. Producing quarterly thematic research digests on areas in which AI could help to achieve the SDGs, focusing on areas of public interest which may be under-served; and c. Issuing ad hoc reports on emerging issues, in particular the emergence of new risks or significant gaps in the governance landscape. 91 There is precedent for such an institution. Some examples include the United Nations Scientific Committee on the Effects of Atomic Radiation, the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), the Scientific Committee on Antarctic Research, and the Intergovernmental Panel on Climate Change (IPCC). 92 These models are known for their systematic approaches to complex, pervasive issues affecting various sectors and global populations. However, while they can provide inspiration, none is perfectly suited to assessing AI technology and should not be replicated directly. Instead, a tailored approach is required. 93 Learning from such precedents, an independent, international and multidisciplinary scientific panel on AI could collate and catalyse leading-edge research to inform those seeking scientific perspectives on AI technology or its applications from an impartial, credible source. An example of one kind of issue to which the panel could contribute is the ongoing debate over open versus closed AI systems, discussed in box 9. 94 A scientific panel under the auspices of the United Nations would have a broad focus to cover an inclusive range of priorities holistically. This could include sourcing expertise on AI-related opportunities, and facilitating \u201cdeep dives\u201d into applied domains of the SDGs, such as health care, energy, education, finance, agriculture, climate, trade and employment.",
+      "page": 48
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Policy dialogue on AI",
+      "refined_text": "governance Recommendation 2: Policy dialogue on AI governance We recommend the launch of a twice-yearly intergovernmental and multi-stakeholder policy dialogue on AI governance on the margins of existing meetings at the United Nations. Its purpose would be to: a. Share best practices on AI governance that foster development while furthering respect, protection and fulfilment of all human rights, including pursuing opportunities as well as managing risks; b. Promote common understandings on the implementation of AI governance measures by private and public sector developers and users to enhance international interoperability of AI governance; c. Share voluntarily significant AI incidents that stretched or exceeded the capacity of State agencies to respond; and d. Discuss reports of the international scientific panel on AI, as appropriate. 103 International governance of AI is currently a fragmented patchwork at best. There are 118 countries that are not parties to any of the seven recent prominent non-United Nations AI governance initiatives with intergovernmental tracks 26 (see fig. 8). Representation gaps occur even among the top 60 AI capacity countries, highlighting the selectiveness of international AI governance today (see fig. 12). 104 An inclusive policy forum is needed so that all Member States, drawing on the expertise of stakeholders, can share best practices that foster development while furthering respect, protection and fulfilment of all human rights, promote interoperable governance approaches and monitor for common risks that warrant further policy interventions. 105 This does not mean global governance of all aspects of AI (which is impossible and undesirable, given States\u2019 diverging interests and priorities). Yet, exchanging views on AI developments and policy responses can set the framework for international cooperation. 106 The United Nations is uniquely placed to facilitate such dialogues inclusively in ways that help Member States to work together effectively. The United Nations system\u2019s existing and emerging suite of norms can offer strong normative foundations for concerted action, grounded in the Charter of the United Nations, human rights and other international law, including environmental law and international humanitarian law, as well as the SDGs and other international commitments. 27 26 These initiatives are not always directly comparable. Some reflect the work of existing international or regional organizations, while others are based on ad hoc invitations from like-minded countries. 27 See, for example, the Charter of the United Nations (preamble, purposes and principles, and Articles 13, 55, 58 and 59). See also core international instruments on human rights (Universal Declaration of Human Rights; International Covenant on Civil and Political Rights; International Covenant on Economic, Social and Cultural Rights; International Convention on the Elimination of All Forms of Racial Discrimination; Convention on the Rights of the Child; Convention on the Elimination of All Forms of Discrimination against Women; Convention against Torture; Convention on the Rights of Persons with Disabilities; Convention on the Rights of Migrants; International Convention for the Protection of All Persons from Enforced Disappearance); instruments on international human rights law (Geneva Conventions; Convention on Certain Conventional Weapons; Genocide Convention; Hague Convention); instruments on related principles such as distinction, proportionality and precaution and the 11 principles on Lethal Autonomous Weapons Systems adopted within the Convention on Certain Conventional Weapons); disarmament and arms control instruments in terms of prohibitions on weapons of mass destruction (Treaty on the Non-Proliferation of Nuclear Weapons; Chemical Weapons Convention; Biological Weapons Convention); environmental law instruments (United Nations Framework Convention on Climate Change; Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques); the Paris Agreement and related principles such as precautionary principle, integration principle and public participation; and non- binding commitments on the 2030 Agenda for Sustainable Development, gender and ethics, such as the UNESCO Recommendation on the Ethics of Artificial Intelligence.",
+      "page": 52
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "AI governance initiatives with intergovernmental tracks",
+      "refined_text": "(TZSYW^\u0005\u0014\u0005UFWY^\u000f 9TWYTNXJ\u0005 ,QTGFQ\u0005&.\u0005 .SIJ]\u00057FSP\u0005 \u0017\u0015\u0017\u0018\u000e 3ZRGJW\u0005TK\u0005 NSNYNFYN[JX\u0005 UFWY^\u0005YT 4*()\u0005&.\u0005 5WNSHNUQJX\u0005 \u0017\u0015\u0016\u001e\u000e ,\u0017\u0015\u0005&.\u0005 5WNSHNUQJX\u0005 \u0017\u0015\u0016\u001e\u000e (T*\u0005IWFKYJWX\u0005 \u0017\u0015\u0017\u0017\u000e ,5&.\u0005 2NSNXYJWNFQ\u0005 )JHQFWFYNTS\u0005 \u0017\u0015\u0017\u0017\u000e 'QJYHMQJ^\u0005 )JHQFWFYNTS\u0005 \u0017\u0015\u0017\u0018\u000e ,\u001c\u00052NSNXYJWNFQ\u0005 8YFYJRJSY\u0005TS\u0005 -NWTXMNRF\u0005&.\u0005 5WTHJXX\u0005 \u0017\u0015\u0017\u0018\u000e 8JTZQ\u0005 2NSNXYJWNFQ\u0005 8YFYJRJSY\u0005 \u0017\u0015\u0017\u0019\u000e :SNYJI\u00058YFYJX\u0005TK\u0005&RJWNHF \u0016 (MNSF \u0017 \u0017 8NSLFUTWJ \u0018 \u0019 :SNYJI\u00050NSLITR\u0005TK\u0005,WJFY\u0005'WNYFNS\u0005FSI\u00053TWYMJWS\u0005.WJQFSI \u0019 (FSFIF \u001a 7JUZGQNH\u0005TK\u00050TWJF \u001b \u001a .XWFJQ \u001a ,JWRFS^ 8\\NY_JWQFSI \u0019 +NSQFSI \u0016\u0015 \u0017 3JYMJWQFSIX \u0016\u0016 \u001a /FUFS \u0016\u0017 +WFSHJ \u0016\u0018 .SINF \u0016\u0019 \u0019 &ZXYWFQNF \u0016\u001a \u001b )JSRFWP \u0016\u001b \u0018 8\\JIJS \u0016 \u0018 1Z]JRGTZWL \u0016 \u0017 .WJQFSI \u0016 \u0019 &ZXYWNF \u0017\u0015 \u0017 8UFNS \u0017\u0016 \u001a 'JQLNZR \u0017\u0017 \u0018 .YFQ^ \u0017\u0018 3TW\\F^ \u0017\u0019 \u0017 *XYTSNF \u0017\u001a \u0017 :SNYJI\u0005&WFG\u0005*RNWFYJX \u0017 \u0017 5TWYZLFQ \u0017 \u0017 7ZXXNFS\u0005+JIJWFYNTS \u0017 \u0016 8FZIN\u0005&WFGNF \u0018\u0015 \u0018 2FQYF \u0018\u0016 \u0017 'WF_NQ \u0018\u0018 \u0019 3J\\\u0005?JFQFSI \u0018\u0019 \u0018 8QT[JSNF \u0018\u001a \u0018 -ZSLFW^ \u0018\u001b \u0017 9\u091dWPN^J \u0018 \u001b .HJQFSI \u0018 \u0017 (MNQJ \u0018 \u0018 6FYFW \u0019\u0015 \u0015 1NYMZFSNF \u0019\u0016 \u0017 2FQF^XNF \u0019\u0017 \u0015 ,WJJHJ \u0019\u0018 \u0017 .SITSJXNF \u0019\u0019 \u0018 ;NJY\u00053FR \u0019\u001a \u0015 (TQTRGNF \u0019\u001b \u0016 &WLJSYNSF \u0019 \u0019 8QT[FPNF \u0019 \u0017 2J]NHT \u0019 \u001a *L^UY \u001a\u0015 \u0016 :WZLZF^ \u001a\u0016 \u0016 &WRJSNF \u001a\u0017 \u0016 8TZYM\u0005&KWNHF \u001a\u0018 \u0016 9ZSNXNF \u001a\u0019 \u0015 2TWTHHT \u001a\u001a \u0015 'FMWFNS \u001a\u001b \u0015 5FPNXYFS \u001a \u0015 8WN\u00051FSPF \u001a \u0015 3NLJWNF \u001a \u0017 0JS^F \u001b\u0015 \u0017 *ZWTUJFS\u0005:SNTS S\u0014F \u001a 9TYFQ\u0005\rNSHQZINSL\u0005YMTXJ\u0005STY\u0005XMT\\S\u000e \u0019 \u0017\u0015 \u001a \u0017 \u0017 \u0017 (MWTSTQTLNHFQ\u0005TWIJW\u0005 \u2192 party to",
+      "page": 53
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Building a core public international AI",
+      "refined_text": "capacity for common benefit 143 Cutting across the above three enablers, advanced economies have both the capability and duty to facilitate AI capacity-building through international collaboration. In turn, they will benefit from a more broad-based digital economy, as well as quality talent and data flows. Importantly, everyone will benefit from the mainstreaming of good AI governance through such collaboration. 144 Cooperation should focus on nurturing AI talent, boosting public AI literacy, improving capacity for AI governance, broadening access to AI infrastructure, promoting data and knowledge platforms suited to diverse cultural and regional needs, and enhancing uptake of AI applications and service capabilities. Only such a comprehensive approach can ensure equitable access to AI benefits, so that no nation is left behind. 145 Many of the stakeholders we consulted emphasized that detailed strategies should be outlined to pool global resources together to build capacity, catalyse collective action towards equitable sharing of opportunities and close the digital divide.",
+      "page": 63
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Fund governance",
+      "refined_text": "165 The fund would source and pool in-kind contributions, including from private sector entities. Coordinating financial and in-kind contributions requires appropriate levels of independent oversight and accountability. Governance arrangements should be inclusive with board members drawn from government, the private sector, philanthropists, civil society and United Nations agencies. They should incorporate scientific and expert inputs, channelled (for example) through the proposed international scientific panel, and engender neutrality and trust for collaboration around data and model development. Fund operations 166 The fund\u2019s operating model should be informed by lessons from pooled international research and development collaborations, such as CERN and Gavi, the Vaccine Alliance, as well as lessons from commercial platforms for timeshared infrastructure. It should also draw lessons from bodies such as the Global Fund (established in 2002 to pool resources to defeat HIV, tuberculosis and malaria) 43 and the Complex Risk Analytics Fund (which pools data in support of all stakeholders in crisis anticipation, prevention and response). Global AI data framework Recommendation 6: Global AI data framework We recommend the creation of a global AI data framework, developed through a process initiated by a relevant agency such as the United Nations Commission on International Trade Law and informed by the work of other international organizations, for: a. Outlining data-related definitions and principles for global governance of AI training data, including as distilled from existing best practices, and to promote cultural and linguistic diversity; b. Establishing common standards around AI training data provenance and use for transparent and rights-based accountability across jurisdictions; and c. Instituting market-shaping data stewardship and exchange mechanisms for enabling flourishing local AI ecosystems globally, such as: i. Data trusts; ii. Well-governed global marketplaces for exchange of anonymized data for training AI models; and iii. Model agreements for facilitating international data access and global interoperability, potentially as techno- legal protocols to the framework. 167 In our consultations, we heard that although there have been plenty of proposals to promote wider access to data and data-sharing arrangements to create more diverse AI ecosystems, not many have materialized so far. This is a critical gap in developing inclusive and vibrant AI ecosystems. 43 See https://www.theglobalfund.org/en/about-the-global-fund .",
+      "page": 67
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Figure 17: Proposed role of the United Nations in the international AI",
+      "refined_text": "governance ecosystem Common understanding Common ground Common benefits GPAI AI summits United Nations as enabling connector OECD Council of Europe Group of 20 SDOs \u2026 Regional organizations International scientific panel Standards exchange Global fund for AI Capacity development network United Nations engagement Governance dialogue National & regional Initiatives INDICATIVE, NOT EXHAUSTIVE Group of Seven AI data framework National & regional Initiatives Abbreviations : GPAI, Global Partnership on Artificial Intelligence; OECD, Organisation for Economic Co-operation and Development; SDOs, standards development organizations.",
+      "page": 71
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "An international AI agency?",
+      "refined_text": "195 If the risks of AI become more serious, and more concentrated, it might become necessary for Member States to consider a more robust international institution with monitoring, reporting, verification, and enforcement powers. 196 There is precedent for such evolution. From the Hague Conventions of 1899 and 1907, to the 1925 Geneva Protocol, and culminating in the Chemical Weapons Convention in 1993, dual-use chemicals have long been subject to limits on access, with protocols for storage and usage, and a ban on weaponization. 197 Biological weapons have also been banned, along with periodic limits on research, such as the limits on recombinant DNA or gene-splicing in 1975. These emphasized containment as an essential consideration in experiment design, with the level of containment tied to the estimated risk. Certain classes of high-risk experiment for which containment could not be guaranteed were essentially prohibited. Other examples included research that threaten to cross fundamental ethical lines, such as ongoing restrictions on human cloning \u2013 an example of the kind of \u201cred line\u201d that may one day be needed in the context of AI research, along with effective cooperation regarding enforcement. 198 Continued scientific assessments are also a feature of some of these frameworks, for example the Scientific Advisory Board of the Organisation for the Prohibition of Chemical Weapons and article XII of the Biological Weapons Convention. 199 The comparison between AI and nuclear energy is well known. From the day the atom was split, it was clear to scientists that this technology could be used for good \u2013 even though their research was directed at constructing a new and terrible weapon. Then, as now, it was telling that leading scientists were among those who called most ardently for a limit on this new technology.",
+      "page": 73
+    },
+    {
+      "document": "GOVERNING  AI FOR  HUMANITY.pdf",
+      "section_title": "Box 16: Lessons learned from past global governance institutions",
+      "refined_text": "AI is a unique set of technologies with risks and societal impacts that transcend borders. However, it is not the first set of technologies that have led to global AI governance arrangements. Civil aviation, climate change, nuclear power and terrorism finance are also complex and multidimensional domains that have warranted a global response. Some of these domains, such as civil aviation, climate change and nuclear power, have led to the creation of new United Nations institutions. Others, notably the protection of global financial flows, have led to bodies that are not treaty-based and yet they have delivered robust normative frameworks, effective market-based enforcement mechanisms and strong public-private partnerships. As we draw parallels between these institutional responses and nascent efforts to do the same for AI, we should not focus too heavily on which institutional analogue is most suitable for the AI problem set. Our interim report foreshadowed that we should look instead at which governance functions are needed for effective and inclusive global AI governance, and what we can learn from past global governance endeavours. One lesson is that the development of a shared scientific and technical understanding of the problem is necessary to trigger a commonly accepted policy response. Here, IPCC, which continues to address the risks of climate change, is a useful model. It offers an example of how an inclusive approach to crafting reports and developing scientific consensus in a constantly evolving area can level the playing field for researchers and policymakers and create the shared understanding that is essential for effective policymaking. The process of drafting and disseminating IPCC reports and global stock takes, although not without challenges, has been centrally important to building a shared understanding and common knowledge base, lowering the costs of cooperation and steering the Conference of the Parties to the United Nations Framework Convention on Climate Change towards concrete policy deliverables. For AI, as the technology evolves, it will be just as important to develop a shared scientific understanding. As the capabilities of AI systems continue to advance and potential risks may exceed known effective approaches to mitigating them, the international scientific panel could be evolved to match emerging needs. A second lesson is that multi-stakeholder collaboration can deliver strong standards and promote quick responses. Here, ICAO and FATF offer useful examples of how to govern a highly technical issue across borders. In civil aviation, the ICAO safety and security standards, developed by industry and government experts and enforced through market access restrictions, ensure that a plane that takes off from, for example, New York can land in Geneva without triggering new safety audits. A combination of ICAO-led safety audits and Member State- driven audits ensure consistent implementation, even as the technology evolves. FATF \u2013 established by the G7 in 1989 to address money-laundering \u2013 offers another example of how soft law institutions can promote common standards and implementation. Its peer review system for monitoring is",
+      "page": 75
+    }
+  ]
+}

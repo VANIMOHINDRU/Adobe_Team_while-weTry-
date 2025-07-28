@@ -1,0 +1,270 @@
+{
+  "document_title": "CHAPTER 1",
+  "sections": [
+    {
+      "title": "CHAPTER 1",
+      "outline": [
+        {
+          "level": "H1",
+          "text": "Artificial intelligence, machine learning, and deep learning",
+          "page": 1
+        },
+        {
+          "level": "H2",
+          "text": "Artificial intelligence",
+          "page": 1
+        },
+        {
+          "level": "H2",
+          "text": "Machine learning",
+          "page": 1
+        },
+        {
+          "level": "H2",
+          "text": "Learning representations from data",
+          "page": 3
+        },
+        {
+          "level": "H2",
+          "text": "The “deep” in deep learning",
+          "page": 5
+        },
+        {
+          "level": "H2",
+          "text": "What deep learning has achieved so far",
+          "page": 8
+        },
+        {
+          "level": "H2",
+          "text": "Don’t believe the short-term hype",
+          "page": 9
+        },
+        {
+          "level": "H2",
+          "text": "The promise of AI",
+          "page": 10
+        },
+        {
+          "level": "H1",
+          "text": "Before deep learning: a brief history of machine learning",
+          "page": 11
+        },
+        {
+          "level": "H2",
+          "text": "Probabilistic modeling",
+          "page": 11
+        },
+        {
+          "level": "H2",
+          "text": "Early neural networks",
+          "page": 11
+        },
+        {
+          "level": "H2",
+          "text": "Kernel methods",
+          "page": 12
+        },
+        {
+          "level": "H2",
+          "text": "Decision trees, random forests, and gradient boosting machines",
+          "page": 13
+        },
+        {
+          "level": "H2",
+          "text": "Back to neural networks",
+          "page": 14
+        },
+        {
+          "level": "H2",
+          "text": "What makes deep learning different",
+          "page": 14
+        },
+        {
+          "level": "H2",
+          "text": "The modern machine-learning landscape",
+          "page": 15
+        },
+        {
+          "level": "H1",
+          "text": "Why deep learning? Why now?",
+          "page": 17
+        },
+        {
+          "level": "H2",
+          "text": "Hardware",
+          "page": 17
+        },
+        {
+          "level": "H2",
+          "text": "Data",
+          "page": 18
+        },
+        {
+          "level": "H2",
+          "text": "Algorithms",
+          "page": 18
+        },
+        {
+          "level": "H2",
+          "text": "A new wave of investment",
+          "page": 19
+        },
+        {
+          "level": "H2",
+          "text": "The democratization of deep learning",
+          "page": 20
+        },
+        {
+          "level": "H2",
+          "text": "Will it last?",
+          "page": 20
+        }
+      ]
+    },
+    {
+      "title": "CHAPTER 2",
+      "outline": [
+        {
+          "level": "H1",
+          "text": "A first look at a neural network",
+          "page": 23
+        },
+        {
+          "level": "H2",
+          "text": "Note on classes and labels",
+          "page": 23
+        },
+        {
+          "level": "H1",
+          "text": "Data representations for neural networks",
+          "page": 27
+        },
+        {
+          "level": "H2",
+          "text": "Scalars (0D tensors)",
+          "page": 27
+        },
+        {
+          "level": "H2",
+          "text": "Vectors (1D tensors)",
+          "page": 27
+        },
+        {
+          "level": "H2",
+          "text": "Matrices (2D tensors)",
+          "page": 27
+        },
+        {
+          "level": "H2",
+          "text": "3D tensors and higher-dimensional tensors",
+          "page": 28
+        },
+        {
+          "level": "H2",
+          "text": "Key attributes",
+          "page": 28
+        },
+        {
+          "level": "H2",
+          "text": "Manipulating tensors in Numpy",
+          "page": 30
+        },
+        {
+          "level": "H2",
+          "text": "The notion of data batches",
+          "page": 30
+        },
+        {
+          "level": "H2",
+          "text": "Real-world examples of data tensors",
+          "page": 31
+        },
+        {
+          "level": "H2",
+          "text": "Vector data",
+          "page": 31
+        },
+        {
+          "level": "H1",
+          "text": "The gears of neural networks: tensor operations",
+          "page": 34
+        },
+        {
+          "level": "H3",
+          "text": "NOTE",
+          "page": 34
+        },
+        {
+          "level": "H2",
+          "text": "Element-wise operations",
+          "page": 34
+        },
+        {
+          "level": "H2",
+          "text": "Broadcasting",
+          "page": 35
+        },
+        {
+          "level": "H2",
+          "text": "Tensor dot",
+          "page": 36
+        },
+        {
+          "level": "H2",
+          "text": "Tensor reshaping",
+          "page": 38
+        },
+        {
+          "level": "H2",
+          "text": "Geometric interpretation of tensor operations",
+          "page": 39
+        },
+        {
+          "level": "H2",
+          "text": "A = [0.5, 1]",
+          "page": 39
+        },
+        {
+          "level": "H2",
+          "text": "A + B",
+          "page": 40
+        },
+        {
+          "level": "H2",
+          "text": "A geometric interpretation of deep learning",
+          "page": 40
+        },
+        {
+          "level": "H1",
+          "text": "The engine of neural networks: gradient-based optimization",
+          "page": 42
+        },
+        {
+          "level": "H2",
+          "text": "What’s a derivative?",
+          "page": 43
+        },
+        {
+          "level": "H2",
+          "text": "Derivative of a tensor operation: the gradient",
+          "page": 44
+        },
+        {
+          "level": "H2",
+          "text": "Stochastic gradient descent",
+          "page": 44
+        },
+        {
+          "level": "H2",
+          "text": "Chaining derivatives: the Backpropagation algorithm",
+          "page": 47
+        },
+        {
+          "level": "H1",
+          "text": "Looking back at our first example",
+          "page": 49
+        }
+      ]
+    }
+  ]
+}

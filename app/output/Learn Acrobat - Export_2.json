@@ -1,0 +1,545 @@
+{
+  "title": "Copy images",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "application, or a file.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Open the Preferences dialog box if you cannot select an image because of overlapping text.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Select",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Acrobat",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "in the upper-left (macOS) or Menu in the upper-left (Windows), then",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "select",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Preferences",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": ". Under",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Categories",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": ", Select",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "General",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": ". Then select the",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Make Select tool select",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "images before text",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": ".",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "1.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Using the Select tool",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": ", do one of the following:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "To select the entire image, select the image or drag a rectangle around it.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "To select a portion of an image, hold the pointer over the image until the cross-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "hair icon",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "appears, and then drag a rectangle around the portion.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Note:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "To deselect an image and start over, click outside it.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "2.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Right-click the image and select copy. Once done, you can paste it to a new file or a",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "clipboard.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Using the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Edit Object",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "tool, you can save objects into a separate PDF.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "1.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Select",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "All tools",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": ">",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Use print production",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": ">",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Edit object",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": ".",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "2.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Select the object or objects.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "3.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Right-click the selection, and choose",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Save Selection As",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": ".",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "4.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "In the",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Save As",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "dialog, specify where you want to save the file, name the file, and then",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "select",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Save",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": ".",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "clipboard or another application. Text and images are copied as an image.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "tool",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": ", draw a rectangle, right-click, and select",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Take a Snapshot",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": ".",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "To use the Snapshot tool, do the following:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "1.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "(Windows) Select the hamburger menu",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "in the upper left. Then select Undo, Redo &",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "more.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "2.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Do one of the following:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Select anywhere on the page to capture the entire content displayed on the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "screen.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Drag a rectangle around the text or images or a combination of both.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "•",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Drag a rectangle within an image to copy just a portion of the image.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Colors in the selected area are inverted momentarily to highlight the selection.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "The selection is copied automatically to the clipboard when you release the",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "mouse/touchpad button. If a document is open in another application, go to",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "the document, right-click, and select",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Paste",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "to paste the copied selection",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "directly into the target document.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Note:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "You can save all the images from a PDF. See",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Export images to another format",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": ". This",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "feature isn’t available in Reader.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 3
+    }
+  ]
+}

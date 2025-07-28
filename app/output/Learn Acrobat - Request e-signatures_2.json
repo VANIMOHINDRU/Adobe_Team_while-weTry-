@@ -1,0 +1,2315 @@
+{
+  "title": "Adobe LiveCycle Rights Management",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "Adobe LiveCycleRights Management",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "(ALCRM) servers let you define centralized policies to",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "control access to documents. The policies are stored on the ALCRM server. You require server",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "access to use them.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "ALCRM servers embed user access information in documents. Therefore, specify document",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "recipients in ALCRM policies. Alternatively, let the ALCRM server retrieve the list of recipients",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "from LDAP directories.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Use ALCRM servers to set permissions for separate document tasks, for example opening,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "editing, and printing. You can also define document auditing policies on ALCRM servers.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "What is a digital signature?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Digital signatures are a secure and efficient way to electronically sign and authenticate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "documents, ensuring their authenticity and integrity. By using digital signatures, you can sign",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "documents quickly and easily, and be confident that they can’t be tampered with or forged.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Why validate a digital signature?",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "When you receive a signed document, you may want to validate its signature to verify the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "signer and the signed content. Depending on how you’ve configured your application,",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "validation may occur automatically. Signature validity is determined by checking the",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "authenticity of the signature’s digital ID certificate status and document integrity.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "To verify authenticity, the validator checks if the signer's certificate or its parent certificates are",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "trusted. The validity of the signing certificate is also checked based on the user's Acrobat or",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat Reader settings.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "To verify document integrity, the validator checks if the signed content was altered after",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "signing. If changes were made, the verification ensures that the signer allowed the changes.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Set preferences for validating digital signatures",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You can set verification preferences in advance so digital signatures are valid when you open",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "a PDF and verification details appear with the signature. When Digital Signatures are",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "validated, an icon appears in the document message bar to indicate the signature status.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Select the hamburger menu",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(Windows®), or go to",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "(macOS)>",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Preferences",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "In the Preferences dialog box, from under categories, select",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Signatures",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "From the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Verification",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "box in the",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Digital Signatures",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "panel, select",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "More...",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "4.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "In the 'Signature Verification Preferences' dialog that opens, you can control the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "following settings:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Set automatic validation of signatures",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": ": With the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Verify signatures when the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "document is opened",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "check box selected, Acrobat automatically validates all",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "signatures in a PDF when you open the document.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Set verification behavior:",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "The options specify methods that determine",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "which plug-in to choose when verifying a signature. The appropriate plug-in",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "is often selected automatically. Contact your system administrator about",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "specific plug-in requirements for validating signatures.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Check the revocation status of certificates",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": ": With the",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Require certificate",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "revocation checking to succeed...",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "checkbox selected, Acrobat checks",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "certificates against a list of excluded certificates during validation. If you",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "deselect the check box, the revocation status for Acrobat Approval",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "signatures is ignored. The revocation status is always checked to certify",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "signatures.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Use expired timestamps",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ": The option is selected by default. It u",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "ses the time",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "mentioned in the timestamp or embedded in the signature, even if the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "signature’s certificate has expired. If you deselect the check box, Acrobat",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "discards expired timestamps.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Set verification for time",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ": You can select the appropriate options under",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "'Verification time' to check the time at which the signature was created, to",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "check the timestamp embedded in the signature, or to check the current",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "time.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Add verification information",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ": Select appropriate options under 'Verification",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "information' to add verification information to the signed PDF or to alert the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "user when the verification information is too large.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Configure to trust the root certificates in the Windows® certificate store",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ":",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "You can specify whether to trust all root certificates in the Windows®",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Certificates store for:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Validating signatures",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ": Certificates are trusted for Acrobat Approval",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "signature validation.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Validating certified documents",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ": Certificates are trusted for",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "certification signature validation.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Selecting these options can compromise security.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Set the trust level of a certificate",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "and the signer have a trust relationship. The trust level of the certificate indicates the actions",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "for which you trust the signer.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "You can change the trust settings of certificates to allow specific actions. For example, you can",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "change the settings to enable the dynamic content and embedded JavaScript™ within the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "certified document.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Navigate to the hamburger menu",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "(Windows) or the",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "menu (macOS)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Preferences",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Signatures",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "For",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "identities & Trusted Certificates",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ", select",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "More...",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "From the left panel, select",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Trusted Certificates",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "4.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Select a certificate from the list and then select",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Edit Trust",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "5.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "In the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Edit Certificate Trust",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "dialog that opens, select any of the following items to",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "trust the certificate:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Use this certificate as a trusted root",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ":",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "A root certificate is an originating",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "authority in a chain of certificate authorities that issued the certificate. By",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "trusting the root certificate, you trust all certificates issued by that certificate",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "authority.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Signed documents or data",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": It a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "cknowledges the identity of the signer.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Certified documents",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": It t",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "rusts documents in which the author has certified the",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "document with a signature. You trust the signer for certifying documents, and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "you accept actions that the certified document takes.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "When the 'Certified documents' option is selected, the following options are",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "available:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Dynamic content",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": It a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "llows movies, sound, and other dynamic elements",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "to play in a certified document.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Embedded high privilege JavaScript™",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": It a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "llows privileged JavaScript™",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "embedded in PDF files to run. JavaScript™ files can be used in malicious",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "ways. It’s prudent to select this option only when necessary on",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "certificates you trust.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Privileged system operations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ": It a",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "llows Internet connections, cross-",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "domain scripting, silent printing, external-object references, and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "import/export methodology operations on certified documents.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Allow",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Embedded high privilege JavaScript™",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "and",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Privileged system operations",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "only",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "for sources that you trust and work closely with. For example, use these options for",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "your employer or service provider.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "6.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Select",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "OK",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "You can right-click a signature field in the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Signatures",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "panel to do most signature-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "related tasks, including adding, clearing, and validating signatures. In some cases, however,",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the signature field becomes locked after you sign it.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Sign in preview mode for document integrity",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "When document integrity is critical for your signature workflow, you can enable 'View",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "documents in Preview mode', and then sign the document. This feature analyzes the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "document for content that may alter the look and feel of the document and suppresses such",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "content to allow you to view and sign the document in a static and secure state.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "By signing in preview mode, you can f",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "ind if the document contains:",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Any dynamic content or external dependencies.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Any constructs such as form fields, multimedia, or JavaScript™ that may affect its look",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "and feel.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "After reviewing the report, you can contact the author of the document about the problems",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "listed in the report.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Certify a PDF",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Certifying a PDF means approving its contents and specifying what changes are allowed for",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "the document to remain certified. For example, a government agency creates a form with",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "signature fields and certifies it, allowing users to only change form fields and sign the",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "document. Removing pages or adding comments will result in losing the certified status.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A certifying signature can only be applied if the PDF has no other signatures. These signatures",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "can be visible or invisible, and a blue ribbon icon",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "in the Signatures panel confirms a valid",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "certifying signature. Adding a certifying digital signature requires a digital ID.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Timestamp a document",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat allows users to add a document timestamp to a PDF without needing an identity-",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "based signature. To timestamp a PDF, a timestamp server is needed. See how to",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "configure a",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "timestamp server",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "A timestamp guarantees the authenticity and existence of a document at a specific time and",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "complies with ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Validate a digital signature",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "If the signature status is unknown or unverified, manually validate it to identify the issue and",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "find a potential solution. In case the signature status is invalid, you must contact the signer to",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "resolve the issue.",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Open the PDF for which you want to validate all digital signatures.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "From the global bar in the upper-left, select",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "All tools",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "From the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "All tools",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "pane, select",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Use a certificate",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Validate all signature.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "4.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Select",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "OK",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "in the confirmation dialog box. Once all the signatures are validated. You",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "get a confirmation message.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "View previous versions of a digitally signed document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Whenever a certificate is used to sign a document, a signed version of the PDF is created and",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "saved along with the original PDF. The saved versions are in an append-only format, meaning",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the original PDF can’t be modified. The Signatures panel provides access to all digital",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "signatures and their corresponding versions.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To view previous versions, open the Signature panel and then select Options",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "View",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Signed Version",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "The previous version opens as a new PDF, with the version information and the name of the",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "signer in the title bar.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To return to the original document, choose the document name from",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the Windows® menu.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Compare versions of a signed document",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "After a document is signed, you can display a list of the changes made to the document after",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "the last version.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To compare the previous versions, open the S",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "ignatures panel and then select the signature.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Then, select Options",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Compare Signed Version To Current Version",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Once you're done,",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "close the temporary document.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Trust a signer’s certificate",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Manager. Also, its trust level must be set manually. End users can exchange certificates or add",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "them directly from signed documents and set their trust levels. However, enterprises may",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "require employees to validate signatures without any manual intervention. Acrobat trusts all",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "certificates that are signed and certified by a trust anchor. Therefore, administrators can",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "preconfigure client installations or allow end users to add a trust anchor.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Sign component PDFs and PDF Portfolios",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "You can sign component PDFs within a PDF Portfolio, or sign the PDF Portfolio as a whole.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Signing a component PDF locks the PDF for editing and secures its content. After signing all",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the component PDFs, you can sign the entire PDF Portfolio to finalize it. Alternatively, you can",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To sign a component PDF, see",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Signing PDFs",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": ". The signed PDF is automatically saved to",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the PDF Portfolio.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To sign a PDF Portfolio as a whole, sign the cover sheet (View > Portfolio > Cover",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Sheet). Once you sign the PDF Portfolio as a whole, you can’t add signatures to the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "component documents. However, you can add more signatures to the cover sheet.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Digitally sign on attachments to component PDFs",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "You can add signatures to attachments before signing the cover sheet.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To do so:",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Open the PDF in a separate window.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Right-click the attachment and select",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Open file",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To view signatures on the PDF Portfolio, navigate to the cover sheet to view the",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "document message bar and signatures pane.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "View signed and certified PDF Portfolios",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "A properly signed or certified PDF Portfolio has one or more signatures that approve or certify",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Details of all signatures appear on the cover sheet.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To view the name of the organization or person that signed the PDF Portfolio, hover",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the pointer over the Signature Badge.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "To view details about the signature that appears on the Signature Badge, click",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "the Signature Badge. The cover sheet and the Signatures pane on the left are open",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "with details.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "If the PDF Portfolio approval or certification is invalid or has a problem, the Signature",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Badge shows a warning icon. To view an explanation of the problem, hover the pointer over",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "a Signature Badge with a warning icon. Different warning icons appear for different situations.",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "For a list and explanation of each warning, see the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "DigSig Admin Guide",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "XML data signatures",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Forms Architectures (XFA) forms. The form author provides XML signing, validating, or",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "clearing instructions for form events, such as button click, file save, or submit.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "XML data signatures conform to the W3C XML-Signature standard. Like PDF digital",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "documents.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "However, PDF signatures have multiple data verification states. Some states are called when a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "user alters the PDF-signed content. In contrast, XML signatures only have two data verification",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "states, valid and invalid. The invalid state is called when a user alters the XML-signed content.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Establish long-term signature validation",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Long-term signature validation allows you to verify the signature's validity long after the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "document was signed. To achieve this, all the necessary elements for signature validation",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "must be embedded in the signed PDF. These elements can be embedded during the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "document signing process or added afterward.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "If certain information is not included in the PDF, the signature can only be validated for a",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "limited time because certificates related to the signature eventually expire or are revoked.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "When a certificate expires, the issuing authority is no longer responsible for providing",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "revocation status, rendering the signature unverifiable.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "The necessary elements for signature validity include the signing certificate chain, certificate",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "revocation status, and possibly a timestamp. If these elements are embedded during signing,",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "the signature can be validated without requiring external resources.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "creator must enable usage rights for Acrobat Reader users by going to the hamburger",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "menu",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "(Windows) or the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "menu (macOS) >",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Save as other",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Acrobat Reader",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "extended PDF",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Note:",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Embedding timestamp information requires an appropriately configured timestamp",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "server. In addition, the signature validation time must be set to Secure Time by navigating",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "to",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Preferences",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Security",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Advanced Preferences",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Verification",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "tab.",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "CDS certificates can add verification information, such as revocation and timestamp into the",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "document without requiring any configuration from the signer. However, the signer must be",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "online to fetch the appropriate information.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information at signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "To add verification information while signing:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Ensure that your computer can connect to the appropriate network resources.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Go to",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Preferences",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Signatures",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": ">",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Creation & Appearances",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": ":",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "More",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "and make sure that",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Include signature’s revocation status",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "option is selected.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "3.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Sign the PDF.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "If all the elements of the certificate chain are available, the information is added to the PDF",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "automatically. If a timestamp server has been configured, the timestamp is also added.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Add verification information after signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "In certain workflows, signature validation information may be unavailable during the signing",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "but can be obtained later. For instance, a company official may sign a contract on a laptop",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "while traveling without internet access. When internet access is later available, anyone",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "validating the signature can add timestamping and revocation information to the PDF.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Subsequent signature validations can also make use of this information.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "To add verification information after signing:",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "1.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Ensure that your computer can connect to the appropriate network resources, and",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "then right-click the signature in the PDF.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "2.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Select",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Add Verification Information",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Information and methods used to include this long-term validation (LTV) information in the",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "standard.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "The command is unavailable if the signature is invalid, or is signed with a self-signed",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "certificate. The command is also unavailable in case the verification time equals the current",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "time.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    }
+  ]
+}

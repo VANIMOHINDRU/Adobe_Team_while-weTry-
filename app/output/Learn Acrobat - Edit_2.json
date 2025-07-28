@@ -1,0 +1,3675 @@
+{
+  "title": "Rotate, move, delete, extract, or renumber",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Make the desired changes in the app. Bear in mind the following:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "If you change the dimensions of the image, the image may not align correctly in",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "the PDF.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Transparency information is preserved only for masks that are specified as",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "index values in an indexed color space.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "If you're working in Photoshop, flatten the image.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Image masks aren't supported.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "If you change image modes while editing the image, you may lose valuable",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "information that can be applied only in the original mode.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "In the editing app, choose",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "File",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Save",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": ". The object is automatically updated and",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "displayed in the PDF when you bring Acrobat to the foreground.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "edited image is saved back into the PDF. However, if the image is in an unsupported format,",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Photoshop handles the image as a generic PDF image. The edited image is saved to disk",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "instead of the PDF.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Export PDF images to another format",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "You can save every page (all text, images, and vector objects on a page) to an image format.",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Choose",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Convert",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Export PDF To",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Image format",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "> [Image Type]. You can also export each",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "image in a PDF to a separate image file.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Rotate pages in a PDF",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can rotate all or select pages in a document. Rotation is based on 90-degree increments.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can rotate pages using the rotate tools in the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Page Thumbnails",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "pane or",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Rotate",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "option.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat, choose",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "From the left pane, specify the page range on which you want to apply the rotation.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Select the drop-down menu under",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ", then select the appropriate",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "option. Alternatively, you can enter the page number you want to operate on.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "After specifying the page range, for Direction, select either Rotate page left for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "counterclockwise 90° rotation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "or Rotate page right° for clockwise 90° rotation",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You can also apply the page rotation on a specific page by selecting the buttons in the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "right pane.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "To temporarily change your view of the page, from the hamburger menu",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "(Windows)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "or the",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "View",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "menu (macOS), choose",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "View",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Rotate view",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Rotate view right",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Rotate view",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "left",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": ". The original page orientation is restored the next time you open the PDF.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Extraction",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "is reusing selected pages of one PDF in a different PDF. Extracted pages include the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "content and the form fields, comments, and links of the original document.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "You can leave the extracted pages in the original document or remove them during",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "extraction.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Any bookmarks or article threadings associated with pages aren't extracted.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat. From the upper left, select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "All Tools",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Specify the page range or the pages you want to extract. Select the drop-down menu",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ", then select the appropriate option. Alternatively, you can",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "enter the page number you want to operate on.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "PAGE OPTIONS",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "In the dialog, select one or more of the following before you select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extract",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "To remove the extracted pages from the original document, select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Delete",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "pages after extracting",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "To create a single-page PDF for each extracted page, select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages as",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "separate files",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "To keep the original pages intact and create a single PDF for the extracted",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "pages, deselect both options.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The extracted pages are placed in a new document.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "The creator of a PDF document can set the security to prevent the extraction of pages.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "To view the security settings for a document, choose",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Document properties",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "from the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "hamburger menu",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "(Windows) or",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "File",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "menu in macOS and then select the",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Security",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "tab in",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "the dialog.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Extract random pages from a PDF",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "You can also select and extract discontinuous pages from the page thumbnails in the right",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "navigation pane of Acrobat.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat. From the upper left, select",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "All Tools",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Specify the pages which you want to extract separated with a comma. For example, if",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "you want to extract pages 3 and 5, enter 3, 5 in the pages field under PAGES",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "SELECTED.",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Select the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "PAGE OPTIONS",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In the dialog, select one or more of the following before you select",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extract",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "To remove the extracted pages from the original document, select",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Delete",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "pages after extracting",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "To create a single-page PDF for each extracted page, select",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Extract pages as",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "separate files",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "To keep the original pages intact and create a single PDF for the extracted",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "pages, deselect both options.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The extracted pages are placed in a new document.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "You can split one or more PDFs into multiple smaller PDFs. When splitting a PDF, you can",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "specify the split by the maximum number of pages, maximum file size, or top-level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "bookmarks.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat. From the upper left, select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "All Tools",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "In the left pane, under",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PAGE OPTIONS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ", select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Split.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "A command dialog appears for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the Split operation.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "In the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Split By",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "list, select the criteria for dividing the document:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Number of pages",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum number of pages for each document in the split.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "File Size",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum file size for each document in the split.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Top-level Bookmarks",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "bookmark.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "To specify a target folder for the split files and filename preferences, select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Output",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Options",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ". Specify the options as needed, and then select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "5.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Split",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Split multiple PDFs",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat. From the upper left, select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "All Tools",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "In the left pane, under",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PAGE OPTIONS",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ", select",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Split.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "A command dialog appears for",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "the Split operation.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "In the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Split by",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "list, select the criteria for dividing the document:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Number of pages",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum number of pages for each document in the split.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "File Size",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Specify the maximum file size for each document in the split.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Top-level Bookmarks",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "If the document includes bookmarks, it creates one document for every top-level",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "bookmark.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "To specify a target folder for the split files and filename preferences, select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Output",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Options",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ". Specify the options as needed, and then select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "5.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Split multiple files",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ". Select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Add Files",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ", and choose",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Add Files, Add Folders",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Add Open Files",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ". Select the files or folder, and then select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ". Select",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Split",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "To copy or move pages within a document, use the page thumbnails in the right navigation",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "pane or the document area. You can also transfer pages between documents using these",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "thumbnails. In the Organize Pages view, drag and drop thumbnails to rearrange pages, or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "select a thumbnail and copy it as needed.",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Move or copy a page",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF in Acrobat, and select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The page thumbnails",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "are displayed in the Document area.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Select one or more page thumbnails.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Do one of the following:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To move a page, drag the corresponding page thumbnail to the new location.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "A bar will appear to show the new position of the page thumbnail. The pages",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "will be renumbered.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To cut or copy a page, select the page, and then select the ellipsis icon",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "in the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "context menu bar displayed next to it. Select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Cut",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Copy",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "from the context",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "menu. Select between the page thumbnails where you want to paste the page.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "A blue horizontal marker shows the selected location where you want to paste.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Paste",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "from the context menu. You can paste the pages in another PDF as",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "well.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "You can also move or copy pages by selecting the Page Thumbnails",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "button from",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the right pane.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Copy a page between two PDFs",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Open both PDFs and display them alongside each other.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "To display the PDFs side by side, select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Window",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "from the hamburger",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "menu",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "(Windows) or the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Window",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "menu (macOS). Then select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Tile",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Vertically",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "The page thumbnails are displayed in the",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Document area.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Select the page thumbnail of the page you want to cut or copy. To select multiple",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "pages, press Ctrl (Windows) or command (macOS) and then select the pages. From",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "the page thumbnail context menu, select",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Copy",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "In the page thumbnails of the target PDF, select between the page thumbnails where",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "you want to insert the page. A blue horizontal marker indicates the location where you",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "want to paste. Right-select and choose",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Paste",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "The page is copied into the document, and the pages are renumbered. You can paste",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "the pages in another PDF as well. Alternatively, you can also drag the page thumbnail",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "into the",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Page Thumbnails",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "panel of the target PDF.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "You can replace an entire PDF page with another PDF page. Only the text and images on the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "original page are replaced. Any interactive elements associated with the original page, such as",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "links and bookmarks, aren't affected. Likewise, bookmarks and links that may have been",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "previously associated with the replacement page don't carry over. Comments, however, are",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "carried over and are combined with any existing comments in the document.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "After you delete or replace pages, it’s a good idea to use the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Reduce File Size",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "command to",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "rename and save the restructured document to the smallest possible file size.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Delete multiple pages in a PDF",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": ". The page thumbnails are displayed in the",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Document area.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Specify the page thumbnail of the pages you want to delete and separate them with a",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "comma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "under",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "PAGES SELECTED",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": ".  You can also choose from the options given in the drop-",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "down menu.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "In the left pane, select",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Delete pages",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": ", and the select",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "to confirm.",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "You can't delete all pages; at least one page must remain in the document.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "If you select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Use Logical Page Numbers",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "in the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Page Display",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "panel of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Preferences",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "dialog box, you can enter a page number in parentheses to delete the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "corresponding page. For example, if the first page in the document is numbered i, you can",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "enter (1) in the Enter Page Range list, and the page is deleted.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Delete a page in a PDF",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The page thumbnails are displayed in the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Document area.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select a page thumbnail of the page you want to delete. Then, select Delete",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "from the contextual toolbar that appears next to the selected page",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "thumbnail.",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages in a PDF",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF that contains the pages you want to replace.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The page thumbnails are displayed in the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Document area.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "In the left tools pane, select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Replace",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ". The file explorer window appears.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select the document containing the replacement pages.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "5.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "In the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Replace Pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "dialog box, under",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Original",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ", enter the pages to be replaced in the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "original document.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "6.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "In the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Replace Pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "dialog box, under",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Replacement",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ", enter the first page of the",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "replacement page range. The last page is calculated based on the number of pages to",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "be replaced in the original document.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "7.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Replace pages between multiple PDFs",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Open the PDF that contains the pages you want to replace, and then open the PDF",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "that contains the replacement pages.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "for both PDFs.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "The page thumbnails are displayed in",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "the Document area.",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "In the PDF containing the replacement pages, select a page or group of pages you",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "want as replacements. For Windows, press",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and then select the pages; for MacOS,",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "press",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Command",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "and then select the pages.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Press",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Ctrl",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(Windows) or",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "command",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "(macOS) and then drag the selected page",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "thumbnails in the document area of the target document where thumbnails are",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "displayed. Release the mouse button when the pointer is directly over the page",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "number box of the page thumbnail you want to replace. The corresponding pages are",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "highlighted.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The pages you selected in the first document replace an equal number of pages in the",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "second document. It starts at the page number that you selected to drop the new",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "pages.",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "The page numbers on the document pages don't always match the page numbers that appear",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "below the page thumbnails and in the right",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Page Navigation",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "toolbar. Pages are numbered",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "with integers, starting with page 1 for the first page of the document. Because some PDFs may",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "contain front matter, such as a copyright page and table of contents, their body pages may",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "not follow the numbering shown in the right",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Page Navigation",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "toolbar.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "You can specify various numbering styles for a group of pages, for example, 1, 2, 3, or i, ii, iii, or",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "a, b, c. You can also customize the numbering system by adding a prefix. For example, pages",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "in Chapter 1 can be 1-1, 1-2, 1-3, and so on. Chapter 2 can have pages numbered as 2-1, 2-2, 2-3,",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "and so on.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Note:",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Using the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Number Pages",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "command affects only the page thumbnails on",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Pages",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "panel. You can physically add new page numbers to a PDF using the headers and",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "footers feature.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "from the global bar. Then select",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Organize pages > Page labels.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Specify a page range. (",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Selected",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "implies pages selected in the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Page Thumbnails",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "panel.)",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Select one of the following, and then select",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "OK",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": ":",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Begin New Section",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": ": Starts a new numbering sequence. Choose a style from the pop-up",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "menu, and enter a starting page number for the section. Specify a",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Prefix",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": ", if desired.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Extend Numbering Used In Preceding Section To Selected Pages",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": ": Continues the numbering",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "sequence from previous pages without interruption.",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "Editing a scanned PDF can be complicated if it includes low-quality text or images, non-",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "editable text, line breaks, or complex formatting. Other inhibiting factors include compatibility",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "issues, security restrictions, and large file sizes, which are more prevalent in PDFs created from",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "scanned images.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "To streamline the process, consider the following best practices and guidelines before editing",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "a scanned document:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Check the accuracy of optical character recognition (OCR) output",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". When you open a",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "scanned document, Acrobat",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "automatically runs OCR",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "in the background to make the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "document editable. Before editing, review the document to ensure that the content is",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "accurate and complete. If necessary, rescan the document using the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Scan & OCR",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ">",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Recognize",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Text",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "tool to improve the output.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Enhance image quality",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". If the scanned PDF contains low-quality images, use the",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Enhance",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "scanned file",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "or",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Enhance camera image",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "feature to improve the quality of images before",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "attempting to edit the document. For more information, see",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Scan documents to PDF",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Use the correct font and formatting",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". When editing the document, ensure that the font and",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "formatting of the edited text match the original document as closely as possible. If you don't",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "have the desired fonts on your computer, see",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Add fonts to your computer",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Remove security restrictions",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". If the scanned PDF has security restrictions that prevent editing,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "remove these restrictions before attempting to edit the document. To know how to remove",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "security from a PDF, see",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Unlock a PDF",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Avoid editing complex elements",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". If the scanned PDF contains tables, graphs, or images,",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "avoid unnecessary edits that could alter the layout or formatting of these elements.",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Check for compatibility issues",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". Ensure that the version of Adobe Acrobat you're using is",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "compatible with the scanned PDF. If you encounter compatibility issues, try updating Adobe",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Acrobat. For more information, see",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "System requirements",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Save a backup copy",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": ". Always save a backup copy of the original scanned PDF before making",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "any edits. Revert to the original document if any issues arise during the editing process.",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Recognize text on scanned PDF",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "You can use the Scan & OCR tool to recognize text, change OCR language, and make all",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "pages editable in one go. To do so:",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Open the scanned file, and then from the top banner that appears, select",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Get",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "started",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "It opens the Scan & OCR tool options in the left panel",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "From the left panel, under Recognize text, select",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "In this file",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "In the dialog that opens, select the pages that you want to apply text",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "recognition for and the language.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Select",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Recognize text",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "Edit a scanned document",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Open the scanned PDF file in Acrobat.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "From the global bar in the upper left, select",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Edit",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Select the text element that you want to edit and start typing. The new text matches",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the original font in your scanned PDF.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "From the upper-left corner, select the hamburger menu",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "(Windows) or File",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "(macOS)>",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Save as",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "and enter a new name for your document.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Initially, the language is set to the default locale, and the other options are disabled. Any",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "changes to these settings are persisted and are applied when you edit the document.",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "You can capture document photos with your smartphone and use the",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Enhance camera",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "image",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "feature to create polished, clear, and compact PDFs without needing a standard",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "scanner. This feature addresses common issues in mobile-captured images, such as incorrect",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "perspectives, areas beyond boundaries, shadows, and inconsistent lighting. While it may not",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "eliminate all problems, it significantly improves the overall quality of your resulting PDF.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Enhance camera image",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "1.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Open the photograph or image of the document in Acrobat.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "2.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "From the",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "All tools",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "menu, select",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Scan & OCR",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "3.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "From the left panel, select",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Enhance camera image",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "and then from the dialog that",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "opens, select",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Enhance",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "4.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "The image is enhanced and a PDF of the image is shown.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "5.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "(Optional) To further adjust the default enhancement level, drag the Adjust",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "enhancement level slider in the secondary toolbar.",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    }
+  ]
+}

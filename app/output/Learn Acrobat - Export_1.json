@@ -1,0 +1,605 @@
+{
+  "title": "Untitled Document",
+  "outline": [
+    {
+      "level": "H3",
+      "text": "",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Export",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Save a PDF",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Recover the last saved version",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "About the Autosave feature",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Set up automatic saving",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Recover lost changes after an unexpected shutdown",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOCX",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to DOC",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PPTX",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "File format op",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Ɵons for PDF export in Acrobat",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Adobe PDF options",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "Image conversion settings",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "File settings",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Color management",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Conversion",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "PDF to Microso",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Ō Word conversion seƫngs",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to RTF",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "PDF to RTF conversion se",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "ƫngs",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to HTML Web Page",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "PDF to HTML conversion se",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "ƫngs",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "Single html page",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Multiple html pages",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Content se",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "ƫngs",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "Ɵon seƫngs",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Microso",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "Ō Excel",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to Microsoft Excel (XLSX)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Text recogni",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Ɵon",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "se",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "ƫngs",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to PostScript or Encapsulated",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "PostScript (EPS)",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Convert PDF to Text and XML 1.0",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to XML 1.0",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to text",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "Output file settings",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Image file settings",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to JPEG or JPEG 2000",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to TIFF",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "Convert PDF to PNG",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "Select and copy text and images",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "Convert selected content to other formats",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "",
+      "page": 30
+    }
+  ]
+}
