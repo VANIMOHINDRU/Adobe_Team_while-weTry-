@@ -1,4 +1,4 @@
-# PDF Insight Extractor
+# PDF Insight Extractor: Part 1B Adobe India Hackathon
 
 This project extracts key insights from PDF documents by analyzing section headings and corresponding content based on a given persona and job-to-be-done. It is designed to assist downstream systems like LLMs or recommender engines in consuming structured outputs.
 
